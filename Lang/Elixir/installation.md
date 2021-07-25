@@ -40,14 +40,14 @@
  Run "mix help" for more commands.-->
 
 -Navigate to new directory just created
- E:\Projects\elixir-series\>cd todos
- E:\Projects\elixir-series\todos>
+ E:\Projects\hello-world\Lang\ELIXIR\>cd todos
+ E:\Projects\hello-world\Lang\ELIXIR\todos>
 
 -To open your VScode IDE from terminal
- E:\Projects\elixir-series\todos>code .
+ E:\Projects\hello-world\Lang\ELIXIR\todos>code .
 
 -To activate your Elixir environment Shell
- E:\Projects\elixir-series\todos>iex -S mix
+ E:\Projects\hello-world\Lang\ELIXIR\todos>iex -S mix
  <!-- 
  Compiling 1 file (.ex)
  Generated todos app
