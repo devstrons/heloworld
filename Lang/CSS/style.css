@@ -7,13 +7,19 @@
 
 body {
     background: rgb(73,233,255);
-    background: linear-gradient(315deg, rgba(73,233,255,1) 0%, rgba(123,33,253,1) 100%) no-repeat center;
+    background: linear-gradient(315deg, rgba(73,233,255,1) 0%, rgba(123,33,253,1) 100%) center;
+    background-size: cover;
 }
 
 .width-main {
-    margin-top: 20px !important;
+    /* margin: 20px 0 0 0 !important; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     padding: 0 !important;
     justify-content: center;
+    width: 100%;
 }
 
 .width-fix {
@@ -22,7 +28,7 @@ body {
 }
 
 .container-zero {
-    font-size: 120px;
+    font-size: 7vw;
     line-height: 120px;
     height: 40vh;
     text-align: center;
@@ -30,12 +36,13 @@ body {
     color: #fff;
     text-shadow: 0 0 20px #aaa;
     width: 100%;
-    padding-top: 120px;
+    display: block;
+    padding: 13vh 0;
     background: #fff;
 }
 
 .container-two {
-    font-size: 120px;
+    font-size: 7vw;
     line-height: 120px;
     height: 40vh;
     text-align: center;
@@ -43,7 +50,8 @@ body {
     color: #fff;
     background-color: rgb(44, 44, 44);
     width: 100%;
-    padding-top: 120px;
+    display: block;
+    padding: 13vh 0;
 }
 
 .box-shadow-one {
@@ -72,4 +80,15 @@ body {
 .grid-four {
     border-right: 10px solid rgb(44, 44, 44);
     border-bottom: 10px solid rgb(44, 44, 44);
+}
+
+@media screen  and (max-width: 800px) {
+    .container-zero,
+    .container-two {
+        font-size: 15vw !important;
+    }
+
+    .width-main {
+        width: 100% !important;
+    }
 }
