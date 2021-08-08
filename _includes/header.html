@@ -1,0 +1,22 @@
+<header class="bar-header">
+    <a id="menu" role="button">
+        <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
+    </a>
+    <h1 class="logo">
+        <a href="{{ site.baseurl }}/">
+            {% if site.use_logo %}
+                {% include logo.html %}
+            {% else %}
+                {{ site.name }} <span class="version">{{ site.version }}</span>
+            {% endif %}
+        </a>
+    </h1>
+    <a id="search" class="dosearch" role="button">
+        <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
+    </a>
+</header>
+
+<div id="mask" class="overlay"></div>
+
+{% include menu.html %}
+{% include search.html %}
