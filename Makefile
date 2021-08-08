@@ -8,10 +8,12 @@ all : install
 
 install:
 	bundle install
+	bundle exec jekyll serve --livereload
 
 site-fix:
 	bundle add webrick
 	bundle install
+	bundle exec jekyll serve --livereload
 
 site:
 	bundle exec jekyll serve --livereload
