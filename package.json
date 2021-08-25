@@ -1,0 +1,29 @@
+{
+    "name": "hello-world",
+    "description": "A collection of hello-world snippets in different programming languages.",
+    "version": "0.0.0",
+    "license": "MIT",
+    "type": "module",
+    "homepage": "https://github.com/devstrons/hello-world#readme",
+    "bugs": "https://github.com/devstrons/hello-world/issues",
+    "author": {
+        "name": "Vasanth Developer",
+        "email": "vasanth@vasanthdeveloper.com",
+        "url": "https://vsnth.dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/devstrons/hello-world.git"
+    },
+    "scripts": {},
+    "devDependencies": {
+        "@babel/core": "^7.15.0",
+        "@babel/eslint-parser": "^7.15.0",
+        "@babel/plugin-syntax-top-level-await": "^7.14.5",
+        "eslint": "^7.32.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-prettier": "^3.4.1",
+        "eslint-plugin-simple-import-sort": "^7.0.0",
+        "prettier": "^2.3.2"
+    }
+}
