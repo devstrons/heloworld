@@ -8,21 +8,37 @@ import path from 'path'
 import fs from 'fs/promises'
 import { promise } from '@vsnthdev/utilities-node'
 import grayMatter, { GrayMatterFile } from 'gray-matter'
+import marked from 'marked'
+import sanitize from 'sanitize-html'
 
 const getCode = (parsed: GrayMatterFile<any>) => {
+    // trim any extra spaces/newlines from the content
     parsed.content = parsed.content.trim()
 
+    // grab the position where the first codeblock starts
     const codeStart =
         parsed.content.indexOf('```', parsed.content.indexOf('```') + 1) + 3
 
-    let code = parsed.content.substr(0, codeStart).split('\n')
-    const content = parsed.content.substr(codeStart).trim()
+    // only get the code inside the first code block
+    const code = parsed.content.substr(0, codeStart).split('\n').slice(1, -1)
 
-    code.shift()
-    code.pop()
+    // get the markdown string
+    const markdown = parsed.content.substr(codeStart).trim()
 
+    // convert the markdown to HTML code
+    const html = marked(markdown)
+
+    // ensure that the HTML we're rendering is safe and secure
+    // and does not contain any client-side vulnerabilities
+    const clean = sanitize(html, {
+        allowedAttributes: {
+            '*': ['id'],
+        },
+    }).trim()
+
+    // return the data we'll be responding
     return {
-        content,
+        content: clean,
         data: parsed.data,
         code: code.join('\n'),
     }
