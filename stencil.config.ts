@@ -6,6 +6,9 @@
 import { Config } from '@stencil/core'
 
 export const config: Config = {
+    devServer: {
+        openBrowser: false,
+    },
     outputTargets: [
         {
             type: 'www',
