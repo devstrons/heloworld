@@ -1,6 +1,6 @@
 {
     "name": "hello-world",
-    "description": "A collection of hello-world snippets in different programming languages.",
+    "description": "A collection of hello world snippets in different programming languages.",
     "version": "0.0.0",
     "license": "MIT",
     "type": "module",
@@ -16,7 +16,12 @@
         "url": "https://github.com/devstrons/hello-world.git"
     },
     "scripts": {
-        "dev": "stencil build --dev --watch --serve"
+        "clean": "rm -rf dist",
+        "dev": "vite --config vite.config.js src",
+        "build": "vite --config vite.config.js build src",
+        "lint": "run-p 'lint:*'",
+        "lint:html": "prettier -w 'src/**/*.html'",
+        "lint:js": "eslint --fix -c .eslintrc.cjs '**/*.+(cjs|js)'"
     },
     "dependencies": {
         "@vsnthdev/utilities-node": "^2.0.1",
@@ -29,7 +34,6 @@
         "@babel/core": "^7.15.0",
         "@babel/eslint-parser": "^7.15.0",
         "@babel/plugin-syntax-top-level-await": "^7.14.5",
-        "@stencil/core": "^2.7.1",
         "@types/glob": "^7.1.4",
         "@types/marked": "^3.0.0",
         "@types/sanitize-html": "^2.3.2",
@@ -39,6 +43,7 @@
         "eslint-plugin-prettier": "^3.4.1",
         "eslint-plugin-simple-import-sort": "^7.0.0",
         "prettier": "^2.3.2",
-        "vercel": "^23.1.2"
+        "vercel": "^23.1.2",
+        "vite": "^2.5.1"
     }
 }
