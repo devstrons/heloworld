@@ -1,0 +1,12 @@
+/*
+ *  Root stylesheet for hello world project.
+ *  Created On 26 August 2021
+ */
+
+/* Vendor Styles */
+@import './_nprogress.css';
+
+/* Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
