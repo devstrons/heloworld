@@ -16,6 +16,9 @@ module.exports = {
                 white: '#FFF',
                 black: '#000',
             },
+            height: {
+                106: '32rem',
+            },
         },
         container: {
             center: true,

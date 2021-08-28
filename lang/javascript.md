@@ -1,5 +1,6 @@
 ---
 lang: JavaScript
+syntax: javascript
 title: JavaScript is the best!
 ---
 
