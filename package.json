@@ -22,6 +22,7 @@
         "clean": "rm -rf dist",
         "dev": "vite --config vite.config.js src",
         "build": "vite --config vite.config.js build src",
+        "preview": "npm run build && sirv dist --single",
         "lint": "run-p 'lint:*'",
         "lint:html": "prettier -w 'src/**/*.html'",
         "lint:js": "eslint --fix -c .eslintrc.cjs '**/*.+(cjs|js)'"
@@ -49,6 +50,7 @@
         "posthtml-inline-svg": "^0.2.0",
         "posthtml-modules": "^0.7.4",
         "prettier": "^2.3.2",
+        "sirv-cli": "^1.0.14",
         "tailwindcss": "^2.2.7",
         "vercel": "^23.1.2",
         "vite": "^2.5.1",
