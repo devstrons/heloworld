@@ -1,5 +1,6 @@
 ---
 lang: JavaScript
+title: JavaScript is the best!
 ---
 
 ```javascript
