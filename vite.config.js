@@ -44,7 +44,7 @@ export default ({ mode }) =>
                     // inline SVGs wherever
                     // required straight into HTML
                     inlineSVG({
-                        cwd: 'src',
+                        cwd: 'src/sections',
                         tag: 'vector',
                         attr: 'src',
                     }),
