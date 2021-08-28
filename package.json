@@ -54,6 +54,7 @@
         "tailwindcss": "^2.2.7",
         "vercel": "^23.1.2",
         "vite": "^2.5.1",
+        "vite-plugin-full-reload": "^0.2.2",
         "vite-plugin-html": "^2.1.0",
         "vite-plugin-posthtml": "^0.0.3"
     }

@@ -8,6 +8,7 @@ import inlineSVG from 'posthtml-inline-svg'
 import modules from 'posthtml-modules'
 import tailwindcss from 'tailwindcss'
 import { defineConfig } from 'vite'
+import fullReload from 'vite-plugin-full-reload'
 import { minifyHtml } from 'vite-plugin-html'
 import { posthtmlPlugin } from 'vite-plugin-posthtml'
 
@@ -52,5 +53,9 @@ export default ({ mode }) =>
 
             // minify html during production
             mode == 'production' ? minifyHtml() : null,
+
+            // fully reload the page if any of the component
+            // HTML files are changed
+            fullReload.default(['src/sections/**/*.html']),
         ],
     })
