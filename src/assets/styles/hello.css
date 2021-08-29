@@ -7,7 +7,15 @@
 @import './_nprogress.css';
 
 /* Highlight.js */
-@import url('../../../node_modules/highlight.js/styles/github-dark-dimmed.css');
+@import '../../../node_modules/highlight.js/styles/github-dark-dimmed.css';
+
+/* Section Styles */
+@import '../../sections/main/index.css';
+
+/* Hide Scrollbars */
+*::-webkit-scrollbar {
+    display: none;
+}
 
 /* Tailwind CSS */
 @tailwind base;

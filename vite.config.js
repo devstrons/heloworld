@@ -24,7 +24,7 @@ export default ({ mode }) =>
         server: {
             port: 3000,
             fs: {
-                allow: ['.'],
+                strict: false,
             },
         },
         css: {

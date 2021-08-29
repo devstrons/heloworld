@@ -7,17 +7,31 @@
 const colors = require('tailwindcss/colors')
 
 module.exports = {
-    purge: ['**/*.html', '**/*.svg'],
+    purge: {
+        content: ['**/*.html', '**/*.svg'],
+        options: {
+            safelist: ['leading-extra-loose'],
+        },
+    },
     darkMode: 'class',
+    variants: {
+        extend: {
+            display: ['dark'],
+        },
+    },
     theme: {
         extend: {
             colors: {
                 gray: colors.blueGray,
                 white: '#FFF',
                 black: '#000',
+                'hero-light': '#22272E',
             },
             height: {
                 106: '32rem',
+            },
+            lineHeight: {
+                'extra-loose': '2.5rem',
             },
         },
         container: {

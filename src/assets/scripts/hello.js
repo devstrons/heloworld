@@ -7,8 +7,15 @@ import progress from 'nprogress'
 
 import core from './core/index.js'
 
-// start showing the progress bar
-progress.start()
+// The esbuild that is packaged with Vite
+// doesn't seem to support top level awaits
+// So, we're wrapping everything in a main()
+const main = async () => {
+    // start showing the progress bar
+    progress.start()
 
-// initialize the core
-await core(progress)
+    // initialize the core
+    await core(progress)
+}
+
+main()

@@ -10,6 +10,7 @@ import axios from 'axios'
 // from the API server
 export const getLanguages = async () => {
     const { data } = await axios({
+        baseURL: import.meta.env.VITE_API_BASE,
         method: 'GET',
         url: '/api',
     })
@@ -25,6 +26,7 @@ export const pickRandom = languages =>
 // gets information about a single language
 export const getLanguage = async name => {
     const { data } = await axios({
+        baseURL: import.meta.env.VITE_API_BASE,
         method: 'GET',
         url: `/api/${name}`,
     })
