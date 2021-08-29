@@ -1,0 +1,23 @@
+/*
+ *  Root stylesheet for hello world project.
+ *  Created On 26 August 2021
+ */
+
+/* Vendor Styles */
+@import './_nprogress.css';
+
+/* Highlight.js */
+@import '../../../node_modules/highlight.js/styles/github-dark-dimmed.css';
+
+/* Section Styles */
+@import '../../sections/main/index.css';
+
+/* Hide Scrollbars */
+*::-webkit-scrollbar {
+    display: none;
+}
+
+/* Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
