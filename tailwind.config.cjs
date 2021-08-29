@@ -5,8 +5,10 @@
  */
 
 const colors = require('tailwindcss/colors')
+const typography = require('@tailwindcss/typography')
 
 module.exports = {
+    plugins: [typography],
     purge: {
         content: ['**/*.html', '**/*.svg'],
         options: {
@@ -33,13 +35,37 @@ module.exports = {
             lineHeight: {
                 'extra-loose': '2.5rem',
             },
+            typography: {
+                DEFAULT: {
+                    css: {
+                        h1: {
+                            fontFamily: 'Poppins',
+                        },
+                        h2: {
+                            fontFamily: 'Poppins',
+                        },
+                        h3: {
+                            fontFamily: 'Poppins',
+                        },
+                        h4: {
+                            fontFamily: 'Poppins',
+                        },
+                        h5: {
+                            fontFamily: 'Poppins',
+                        },
+                        h6: {
+                            fontFamily: 'Poppins',
+                        },
+                    },
+                },
+            },
         },
         container: {
             center: true,
         },
         fontFamily: {
             body: ['Urbanist', 'sans-serif'],
-            display: ['Manrope', 'sans-serif'],
+            display: ['Poppins', 'sans-serif'],
             code: ['Recursive', 'monospace'],
         },
     },
