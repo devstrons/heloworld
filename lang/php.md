@@ -9,6 +9,6 @@ author: irsayvid
 <?php
 echo "Hello World!";
 ?>
-\```
+```
 
 # PHP is case insensitive!
