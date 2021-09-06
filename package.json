@@ -4,6 +4,7 @@
     "version": "0.0.0",
     "license": "MIT",
     "type": "module",
+    "engineStrict": true,
     "homepage": "https://github.com/devstrons/hello-world#readme",
     "bugs": "https://github.com/devstrons/hello-world/issues",
     "author": {
@@ -16,7 +17,7 @@
         "url": "https://github.com/devstrons/hello-world.git"
     },
     "engines": {
-        "node": "<=16.6.2"
+        "node": "^14"
     },
     "scripts": {
         "clean": "rm -rf dist",
