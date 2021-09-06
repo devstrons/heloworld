@@ -3,7 +3,7 @@
     <strong>A collection of hello world snippets in multiple programming languages.</strong>
 </p>
 <p align="center">
-    <a href="https://github.com/devstrons/hello-world/pulls">
+    <a href="https://github.com/devstrons/hello-world/graphs/contributors">
         <img src="https://img.shields.io/github/contributors/devstrons/hello-world?style=flat-square">
     </a>
     <a href="https://github.com/devstrons/hello-world/issues">
