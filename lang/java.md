@@ -60,11 +60,11 @@ environment variables to point to correct installation directories:
 
 **Setting Up the Path for Windows :**
 
-Assuming you have installed Java in *`c:\Program Files\java\jdk* directory`:*
+Assuming you have installed Java in *`C:\Program Files\Java\JDK* directory`:*
 - Right-click on `This PC` and select `Properties`.
 - Click the `Environment variables` button under the `Advanced` tab.
 - Now, alter the `PATH` variable so that it also contains the path to the Java executable. Example, if the path is currently set to *`C:\WINDOWS\SYSTEM32`*, then change your 
-path to read *`C:\WINDOWS\SYSTEM32;c:\Program Files\java\jdk\bin`*
+path to read *`C:\WINDOWS\SYSTEM32;C:\Program Files\Java\JDK\bin`*
 
 **Setting Up the Path for Linux, UNIX, Solaris, FreeBSD :**
 
@@ -96,3 +96,6 @@ libraries, stop cascading failure and enable resilience in complex distributed s
 - [Picasso](https://github.com/square/picasso) : A powerful image downloading and caching library for Android (Java).
 
 - [greenDAO](https://github.com/greenrobot/greenDAO) : greenDAO is a light & fast ORM solution for Android (Java) that maps objects to SQLite databases.
+
+
+**Thanks for Reading**
