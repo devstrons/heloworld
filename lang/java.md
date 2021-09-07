@@ -1,7 +1,7 @@
 ---
     lang: Java
     syntax: java
-    title: Java is a statically typed JVM based programming language.
+    title: Java is a Awesome.
     author: KhafiaAyyub
 ---
 
