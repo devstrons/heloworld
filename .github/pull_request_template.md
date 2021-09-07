@@ -10,6 +10,9 @@ This PR fixes #
 
 - [ ] Yes, I am a Member of **DEVSTRONS'**
 
+**Discord id** (eg: DEVSTRONS'#0238):
+<!-- Proof to count you in as discord member -->
+
 
 <!-- THANK YOU FOR CONTRIBUTING TO DEVSTRONS' PROJECTS!
  
