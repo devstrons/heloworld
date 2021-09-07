@@ -1,7 +1,7 @@
 ---
     lang: Java
     syntax: java
-    title: Java is a Awesome.
+    title: Java is Best
     author: KhafiaAyyub
 ---
 
