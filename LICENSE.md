@@ -1,6 +1,6 @@
 # The MIT License (MIT)
 
-Copyright &copy; 2021 Vasanth Developer
+Copyright &copy; 2021 DEVSTRONS'
 
 ---
 
