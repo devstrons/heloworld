@@ -47,7 +47,7 @@ Additionally, XAMPP comes with other useful tools such as Mercury mail server, p
 Currently, the latest stable version of PHP is 7.4
 
 **Step 1:**
-Navigate to https://www.apachefriends.org/download.html and download the latest stable version of PHP according to your OS (windows/Linux/OSX)
+[Click here](https://www.apachefriends.org/download.html) to download the latest stable version of PHP according to your OS (windows/Linux/OSX)
 
 **Step 2:**
 Once the download is complete, run the installer file which you downloaded. Follow the instructions mentioned and click next. Select components you want install and choose specific location for installation. Make sure to check the “Private networks, such as my home or work network” option. This is very important. XAMPP won’t work if you don’t check this and click Allow access. Once done, click finish.
@@ -58,15 +58,15 @@ In the control panel, click on config button. Click on the start button beside A
 You can access your phpMyAdmin dashboard by clicking the admin button beside MySQL module. Or you can simply go to http://localhost/phpmyadmin/ in your browser. Here, you can manage the MariaDB (or MySQL) databases of your web projects.
 
 **Writing your first hello world program in php:**
-Create a new folder hello in C:\xampp\htdocs\ (The C: drive may vary based on the location you chose for installation). Inside the new folder, right click and create a new file ‘hello.php’. Write the below code in your new file.
+Create a new folder hello in C:\xampp\htdocs\ (The C: drive may vary based on the location you chose for installation). Inside the new folder, right click and create a new file ‘hello.php’. Write the below code in your new file. PHP is case insensitive. You need not worry if a given keyword is in lowercase or uppercase. It treats echo and ECHO as the same.
 
 ```php
-<?php
-echo "Hello World!";
-?>
+    <?php
+    echo "Hello World!";
+    ?>
 ```
 
-Navigate to  http://localhost/hello/hello.php in your preferred browser.
+Navigate to [http://localhost/hello/hello.php](http://localhost/hello/hello.php) in your preferred browser.
 
 If it displays “Hello World!”, you’ve successfully setup XAMPP server and wrote your first few lines in PHP.
 
@@ -77,7 +77,3 @@ If you’re looking for some projects in PHP for inspiration or contribution, ch
 - [Project Celadon](https://github.com/Webwiznitr/Project-celadon-2.0)
 - [Project Sirius](https://github.com/CYBORG-NIT-ROURKELA/project-sirius)
 - [Top open source projects in PHP]( https://github.com/trending/php)
-
-# PHP is case insensitive!
-
-You need not worry if a given keyword is in lowercase or uppercase. It treats echo and ECHO as the same.
