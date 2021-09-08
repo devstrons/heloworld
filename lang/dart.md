@@ -6,7 +6,7 @@ author: chandan0000
 ---
 
 ```dart
-int main(){
+void main(){
     print("hello world");
 }
 ```
