@@ -124,7 +124,7 @@ $ echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.profile
 
 ## Some Cool projects in Dart
 
-- **1. [Invoice Naija](https://github.com/invoiceninja/admin-portal):** This is a business application for documenting invoices, tasks, and expenses.
+- **1. [Invoice Naija](https://github.com/invoiceninja/admin-portal) :** This is a business application for documenting invoices, tasks, and expenses.
 It was built using flutter and laravel.
 
 - Invoice Naija
@@ -135,7 +135,7 @@ It was built using flutter and laravel.
 - Payments
  
 
-**2. [Bit Alarm](https://github.com/damoonrashidi/bitalarm): ** This is a cryptocurrency application created to keep track of different cryptocurrencies
+**2. [Bit Alarm](https://github.com/damoonrashidi/bitalarm) :** This is a cryptocurrency application created to keep track of different cryptocurrencies
 
 Bit Alarm
 Extra Features
@@ -146,7 +146,7 @@ Scan QR-code to add a wallet to wallet list
  Dynamic portfolio based on the address (ETH + ERC20-tokens, LTC, BTC, BCH, DASH and ADA for now)
  Further, Ability to add individual assets in addition to wallets
 
-**3 [Weight Tracker](https://github.com/MSzalek-Mobile/weight_tracker)** Weight Tracker is an application dedicated to people who want to dump or maintain weight. It allows you to keep an eye on your progress and pursue your weight goals.
+**3 [Weight Tracker](https://github.com/MSzalek-Mobile/weight_tracker) :** Weight Tracker is an application dedicated to people who want to dump or maintain weight. It allows you to keep an eye on your progress and pursue your weight goals.
 
 - **Screenshot Image**
 
@@ -156,7 +156,7 @@ Scan QR-code to add a wallet to wallet list
 
 - **User-Friendly** 
 
-**4. [Flutter Music Player](https://github.com/iampawan/Flutter-Music-Player)**
+**4. [Flutter Music Player](https://github.com/iampawan/Flutter-Music-Player) :**
 Flutter Music Player is an open-source music player application, available only on Andriod, for now.
 
 - Screenshot Image
@@ -174,7 +174,7 @@ Flutter Music Player is an open-source music player application, available only 
 - onComplete
 - onDuration / onCurrentPosition
 
-**5. [Trovami](https://github.com/Samaritan1011001/Trovami)**
+**5. [Trovami](https://github.com/Samaritan1011001/Trovami) :**
 Trovami is a flutter based android application, you can use to share your current location with other persons.
 
 - preview
@@ -183,6 +183,6 @@ Trovami is a flutter based android application, you can use to share your curren
 - View group members on the map
 - Google Sign-in
 
-**6. [BookSearch](https://github.com/Norbert515/BookSearch)**
+**6. [BookSearch](https://github.com/Norbert515/BookSearch) :**
 
 - BookSearch helps you keep track of books, you have read
