@@ -1,7 +1,7 @@
 ---
 lang: Dart
 syntax: Dart
-title:  Dart is really flexible!
+title:  Dart is Smart Language!
 author: chandan0000
 ---
 
