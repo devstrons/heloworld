@@ -135,7 +135,7 @@ It was built using flutter and laravel.
 - Payments
  
 
-**2. [Bit Alarm](https://github.com/damoonrashidi/bitalarm)** This is a cryptocurrency application created to keep track of different cryptocurrencies
+**2. [Bit Alarm](https://github.com/damoonrashidi/bitalarm): ** This is a cryptocurrency application created to keep track of different cryptocurrencies
 
 Bit Alarm
 Extra Features
