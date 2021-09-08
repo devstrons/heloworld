@@ -109,4 +109,4 @@ If you’re looking for some projects in C for contribution, checkout the below 
 
 - [Project neovim](https://github.com/neovim/neovim)
 - [Project TDengine](https://github.com/taosdata/TDengine)
-- [Top Open Source Projects](https://github.com/trending/c)
+- [Top C Open Source Projects](https://github.com/trending/c)
