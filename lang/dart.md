@@ -19,15 +19,15 @@ Dart wasn’t popular and was known as an orphan, but it had a compiler for a Da
 
   **Client Web App Frameworks:**
 
-- ** [AngularDart](https://github.com/angulardart/angular) :** - AngularDart is a development platform for building mobile and desktop web applications.
+- **[AngularDart](https://github.com/angulardart/angular)** - AngularDart is a development platform for building mobile and desktop web applications.
 
 
-- ** [Flutter](https://flutter.dev/) :** - Flutter is a framework to build high-performance, cross-platform mobile apps, allowing applications to be written for Android, iOS and Web Apps.
+- **[Flutter](https://flutter.dev/)** - Flutter is a framework to build high-performance, cross-platform mobile apps, allowing applications to be written for Android, iOS and Web Apps.
 
-- ** [MDL/Dart](http://mdl.mikemitterer.at) :** - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
+- **[MDL/Dart](http://mdl.mikemitterer.at)** - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 
-- OverReact](https://workiva.github.io/over_react) :** - A library for building statically-typed React UI components.
-- [VueDart](https://vuedart.dev) :** - Create Vue web apps using Dart, a progressive, incrementally-adoptable framework for building Web UIs.
+- **[OverReact](https://workiva.github.io/over_react)** - A library for building statically-typed React UI components.
+- **[VueDart](https://vuedart.dev)** - Create Vue web apps using Dart, a progressive, incrementally-adoptable framework for building Web UIs.
 
   **Server Frameworks:**
   
