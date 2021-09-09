@@ -2,6 +2,7 @@
 lang: Python
 syntax: python
 title: Python is a snake language!
+author : AaquibAli
 ---
 
 ```python
