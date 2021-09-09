@@ -11,7 +11,9 @@ void main(){
 }
 ```
 ## What is Dart?
-Dart is a new general and open source programming language with a vibrant community developed by Google Inc. and its official website is https://dart.dev. It was first announced as a public preview on October 10, 2011; it has now reached version 1.10. World class language designers and developers are involved in this project, namely, Lars Bak and Kasper Lund (known for their V8 JavaScript engine embedded in the Chrome browser, which revolutionized performance in the JavaScript world), and Gilad Bracha (a language theorist known for the development of the Strongtalk and Newspeak languages and for the Java specification). Judging by the huge amount of resources and the number of teams working on it, it is clear that Google is very serious about making Dart a success.
+- Dart is a dynamic, class-based, object-oriented programming language with closure and lexical scope. Syntactically, it is quite similar to Java, C, and JavaScript. If you know any of these programming languages, you can easily learn the Dart programming language.
+
+- Dart is an open-source programming language which is widely used to develop the mobile application, modern web-applications, desktop application, and the Internet of Things (IoT) using by Flatter framework. It also supports a few advance concepts such as interfaces, mixins, abstract classes, refield generics, and type interface. It is a compiled language and supports two types of compilation techniques. **[Dart official Website: ](https://dart.dev/tutorials)** https://dart.dev/tutorials
 
 ## What is Dart used for?
 Dart programming language can be used for web and mobile applications and is also suitable for server and desktop applications.
@@ -30,7 +32,7 @@ Dart wasn’t popular and was known as an orphan, but it had a compiler for a Da
 - **[VueDart](https://vuedart.dev)** - Create Vue web apps using Dart, a progressive, incrementally-adoptable framework for building Web UIs.
 
   **Server Frameworks:**
-- [Jaguar](https://github.com/Jaguar-dart/jaguar)** - A server framework built for speed, simplicity and extensibility.
+- **[Jaguar](https://github.com/Jaguar-dart/jaguar)** - A server framework built for speed, simplicity and extensibility.
 - **[Start](https://github.com/lvivski/start)** - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 - **[Shelf](https://pub.dev/packages/shelf)** - Shelf makes it easy to create and compose web servers and parts of web servers.
 - **[Vane](https://github.com/Scorpiion/Vane)** - Framework with built-in server runtime environment and middleware system.
