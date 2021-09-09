@@ -1,7 +1,7 @@
 ---
 lang: Dart
 syntax: Dart
-title:  Dart is Smart Language!
+title: Dart is Smart Language!
 author: chandan0000
 ---
 
@@ -65,7 +65,7 @@ Click on the Dart SDK link. The download will start immediately and a zip file w
 Extract the contents of Dart SDK zip file. The contents of the folder would be as shown below.
 
 **Step 3:**
- Add Dart Path to PATH Environment Variable
+Add Dart Path to PATH Environment Variable
 As of now, you can run dart command only from bin folder of dart sdk. To run dart command from anywhere in your file system, add dart bin path to PATH environment variable.
 
 Open Environment Variables. Under System variables, click on Path and click Edit button.
@@ -75,7 +75,7 @@ Edit environment variable window appears. Click on New and paste the dart sdk bi
 **Step 4:** Restart Command Prompt
 Close the existing command prompt window and open a new command prompt.
 
-Just run the dart command:  dart --version
+Just run the dart command:  `dart --version`
 
 
 **Install the Dart SDK on Linux:**
@@ -118,8 +118,8 @@ To change the PATH for upcoming terminal sessions, use a below command:
 $ echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.profile  
 
 
-## Popular dart Editors 
-- The Eclipse, IntelliJ, and WebStorm are the IDEs from the Jet brains that support the Dart Programming, but WebStorm is more popular than others. We can download it from https://www.jetbrains.com/webstorm/download/#section=windows-version.
+## Popular Dart IDEs/editors 
+- The Eclipse,VsCode, IntelliJ, and WebStorm are the IDEs from the Jet brains that support the Dart Programming, but WebStorm is more popular than others. We can download it from https://www.jetbrains.com/webstorm/download/#section=windows-version.
 
 
 ## Some Cool projects in Dart
