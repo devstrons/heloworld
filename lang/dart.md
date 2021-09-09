@@ -1,6 +1,6 @@
 ---
 lang: Dart
-syntax: Dart
+syntax: dart
 title: Dart is Smart Language!
 author: chandan0000
 ---
