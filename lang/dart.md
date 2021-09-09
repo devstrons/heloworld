@@ -202,7 +202,3 @@ Trovami is a flutter based android application, you can use to share your curren
 - Create groups and choose to share your live location
 - View group members on the map
 - Google Sign-in
-
-**6. [BookSearch](https://github.com/Norbert515/BookSearch) :**
-
-- BookSearch helps you keep track of books, you have read
