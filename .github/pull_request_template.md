@@ -11,7 +11,7 @@ This PR fixes #
 - [ ] Yes, I am a Member of **DEVSTRONS'**
 
 **Discord id** (eg: DEVSTRONS'#0238):
-<!-- Enter your discord member's id -->
+<!-- Enter your discord's id -->
 
 
 <!-- THANK YOU FOR CONTRIBUTING TO DEVSTRONS' PROJECTS!
