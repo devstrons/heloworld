@@ -37,9 +37,9 @@
     ```
 
     ## What is Java?
-    ## Why use Java?
+    ## Why to use Java?
     ## Setting up Java development environment
-    ## Some Cool projects in Java
+    ## Some cool projects in Java
     ## Conclusion
 </pre>
 
