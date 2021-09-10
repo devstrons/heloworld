@@ -9,7 +9,7 @@ import glob from 'glob'
 
 export default async (req: VercelRequest, res: VercelResponse) => {
     const files = glob
-        .sync(path.join(__dirname, '..', 'lang', '*.md'), {
+        .sync(path.join(__dirname, '..', 'public', 'lang', '*.md'), {
             nodir: true,
         })
         .map(file => path.parse(file).name)

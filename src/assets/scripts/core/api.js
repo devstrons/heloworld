@@ -31,7 +31,6 @@ const getAuthor = async language => {
     if (!username) return language
 
     // initialize a new GitHub API class
-    // while passing in the token
     const github = new Octokit()
 
     const { data } = await github.rest.users.getByUsername({ username })
