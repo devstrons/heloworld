@@ -52,8 +52,12 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."
 
 If it is not installed you can install using these commands:
 
-`sudo apt-get install gcc`
-`sudo apt-get install build-essential`
+```bash
+sudo apt install gcc
+```
+```bash
+sudo apt install build-essential
+```
 
 #### Windows
 
@@ -72,7 +76,8 @@ Add the path to your Mingw-w64 `bin` folder to the Windows `PATH` environment va
 
 To check that your Mingw-w64 tools are correctly installed and available, open a new Command Prompt and type:
 
-- `g++ --version`
+
+- `g++ --version`   
 - `gdb --version`
 
 If you don't see the expected output or g++ or gdb is not a recognized command, make sure your PATH entry matches the Mingw-w64 binary location where the compilers are located.
@@ -110,3 +115,9 @@ If you’re looking for some projects in C for contribution, checkout the below 
 - [Project neovim](https://github.com/neovim/neovim)
 - [Project TDengine](https://github.com/taosdata/TDengine)
 - [Top C Open Source Projects](https://github.com/trending/c)
+
+## Conclusion
+
+C is an excellent language for beginners to learn. C helps to understand the internal architecture of a computer, how computer stores and retrieves information. It can be used to develop software like operating systems, databases, compilers, and so on. It  is faster than most programming languages like Java, Python, etc. After learning C it becomes easy to learn other languages. 
+
+Congratulations on making it till the end!
