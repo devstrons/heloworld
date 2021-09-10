@@ -13,7 +13,7 @@ void main(){
 ## What is Dart?
 - Dart is a dynamic, class-based, object-oriented programming language with closure and lexical scope. Syntactically, it is quite similar to Java, C, and JavaScript. If you know any of these programming languages, you can easily learn the Dart programming language.
 
-- Dart is an open-source programming language which is widely used to develop the mobile application, modern web-applications, desktop application, and the Internet of Things (IoT) using by Flatter framework. It also supports a few advance concepts such as interfaces, mixins, abstract classes, refield generics, and type interface. It is a compiled language and supports two types of compilation techniques. [Dart official Website:](https://dart.dev/tutorials)
+- Dart is an open-source programming language which is widely used to develop the mobile application, modern web-applications, desktop application, and the Internet of Things (IoT) using by Flatter framework. It also supports a few advance concepts such as interfaces, mixins, abstract classes, refield generics, and type interface. It is a compiled language and supports two types of compilation techniques. [Click Here Dart official Website:](https://dart.dev/tutorials)
 
 ## What is Dart used for?
 Dart programming language can be used for web and mobile applications and is also suitable for server and desktop applications.
@@ -53,18 +53,10 @@ You will also need the following softwares :
 - Linux, macOS or Windows xp/7/8/10 operating system
 - Dart SDK
 - Text Editors
-
-
 ## Setting up Dart development environment
 **Executing Script Online with DartPad:**
-
 You may test your scripts online by using the online editor at https://dartpad.dartlang.org/. The Dart Editor executes the script and displays both HTML as well as console output. The online editor is shipped with a set of preset code samples.
-
-
-
 **Dart Installation:**
- 
- 
 **Install Dart on Windows:**
 In this tutorial, we will provide a step by step process to get Dart installed on Windows.
 
@@ -73,26 +65,21 @@ Dart SDK comes as a pre-compiled version. So, download and extracting is all you
 **Step 1:** Download Dart SDK
 Go to Dart SDK archive page.
 
-The URL is https://dart.dev/tools/sdk/archive.
+The URL is  [here](https://dart.dev/tools/sdk/archive)
 
 Download Dart SDK
 Click on the Dart SDK link. The download will start immediately and a zip file will be downloaded.
-
 **Step 2:** Extract zip file
 Extract the contents of Dart SDK zip file. The contents of the folder would be as shown below.
-
 **Step 3:**
 Add Dart Path to PATH Environment Variable
 As of now, you can run dart command only from bin folder of dart sdk. To run dart command from anywhere in your file system, add dart bin path to PATH environment variable.
-
 Open Environment Variables. Under System variables, click on Path and click Edit button.
-
 Edit environment variable window appears. Click on New and paste the dart sdk bin path as shown below.
-
 **Step 4:** Restart Command Prompt
 Close the existing command prompt window and open a new command prompt.
 
-Just run the dart command:  `dart --version`
+Just run the dart command:  ```bash dart --version ```
 
 
 **Install the Dart SDK on Linux:**
