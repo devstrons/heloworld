@@ -20,19 +20,19 @@ Dart programming language can be used for web and mobile applications and is als
 Dart wasn’t popular and was known as an orphan, but it had a compiler for a Dart VM, also Google had all the control about this language.
 
 **Client Web App Frameworks:**
--**[AngularDart](https://github.com/angulardart/angular)** - AngularDart is a development platform for building mobile and desktop web applications.
--**[Flutter](https://flutter.dev/)** - Flutter is a framework to build high-performance, cross-platform mobile apps, allowing applications to be written for Android, iOS and Web Apps.
--**[MDL/Dart](http://mdl.mikemitterer.at)** - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
--**[OverReact](https://workiva.github.io/over_react)** - A library for building statically-typed React UI components.
--**[VueDart](https://vuedart.dev)** - Create Vue web apps using Dart, a progressive, incrementally-adoptable framework for building Web UIs.
+- **[AngularDart](https://github.com/angulardart/angular)** - AngularDart is a development platform for building mobile and desktop web applications.
+- **[Flutter](https://flutter.dev/)** - Flutter is a framework to build high-performance, cross-platform mobile apps, allowing applications to be written for Android, iOS and Web Apps.
+- **[MDL/Dart](http://mdl.mikemitterer.at)** - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
+- **[OverReact](https://workiva.github.io/over_react)** - A library for building statically-typed React UI components.
+- **[VueDart](https://vuedart.dev)** - Create Vue web apps using Dart, a progressive, incrementally-adoptable framework for building Web UIs.
 
 **Server Frameworks:**
--**[Jaguar](https://github.com/Jaguar-dart/jaguar)** - A server framework built for speed, simplicity and extensibility.
--**[Start](https://github.com/lvivski/start)** - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
--**[Shelf](https://pub.dev/packages/shelf)** - Shelf makes it easy to create and compose web servers and parts of web servers.
--**[Vane](https://github.com/Scorpiion/Vane)** - Framework with built-in server runtime environment and middleware system.
--**[Rikulo Stream](https://github.com/rikulo/stream)** - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
--**[Alfred]( https://github.com/rknell/alfred)** - Minimal ExpressJS-inspired server with routing and middlware.
+- **[Jaguar](https://github.com/Jaguar-dart/jaguar)** - A server framework built for speed, simplicity and extensibility.
+- **[Start](https://github.com/lvivski/start)** - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
+- **[Shelf](https://pub.dev/packages/shelf)** - Shelf makes it easy to create and compose web servers and parts of web servers.
+- **[Vane](https://github.com/Scorpiion/Vane)** - Framework with built-in server runtime environment and middleware system.
+- **[Rikulo Stream](https://github.com/rikulo/stream)** - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
+- **[Alfred]( https://github.com/rknell/alfred)** - Minimal ExpressJS-inspired server with routing and middlware.
  
  
 ## Why to use Dart?
