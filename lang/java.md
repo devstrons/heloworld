@@ -13,14 +13,14 @@ public class HelloWorld {
 }
 ```
 
-## What is Java❓
+## ☕️ What is Java?
 
 Java is a programming language and computing platform first released by Sun Microsystems in 1995. There are lots of applications and websites that will not work unless you have 
 Java installed, and more are created every day. Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. The compilation of the Java applications results in the bytecode that can be run on any platform using the 
 Java Virtual Machine(JVM). Java is fast, secure, and reliable. From laptops to datacenters, game consoles to scientific supercomputers, cell phones to the Internet, Java is 
 everywhere!
 
-## What is Java used for❓
+## 📚 What is Java used for?
 
 **Here are some important Java applications:**
 
@@ -38,7 +38,7 @@ everywhere!
 
 - Used for Server-Side Technologies like [Apache](https://commons.apache.org/), [JBoss](https://developers.redhat.com/products/eap/overview), [GlassFish](https://javaee.github.io/glassfish/), etc.
     
-## Why use Java❓
+## 🤔 Why to use Java?
 
 Java was designed to be easy to use and is therefore easy to write, compile, debug, and learn than other programming languages. Java is object-oriented. This allows you to create modular programs and reusable code. Java is platform-independent.
 
@@ -81,7 +81,7 @@ To write your Java programs, you will need a text editor, you can consider one o
 - Eclipse: A Java IDE developed by the eclipse open-source community and can be downloaded from [here](https://www.eclipse.org).
 
 
-## 🎉 Some Cool projects in Java
+## 🎉 Some cool projects in Java
 
 - [Realm](https://github.com/realm/realm-java): Realm is a mobile database that runs directly inside phones, tablets or wearables.
  
