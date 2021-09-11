@@ -81,6 +81,7 @@ With Python, you also need something called an interpreter that converts your co
 To convert your code, you must first use a Python shell, which calls upon the interpreter through something called a “bang” line.
 
 As for creating an application or file, there are two ways to do this. You can create a program using a simple text editor like WordPad, or Notepad++. You can also create a program using a Python shell. There are advantages and disadvantages to each method, which we’ll discuss next.
+## How Do I Get Python? 
 
 **Python Shell vs Text File:**
 A shell is a program or tool that can be used to interact with a system. For instance, the Windows operating system shell can be tapped into by using a “terminal” or command line to submit commands and arguments.
@@ -110,7 +111,6 @@ Python comes pre-installed on Mac and a majority of Linux distributions. However
 ```
 If you’re running Windows, you’ll need to download Python from the Python Software Foundation (link below).
 
-## How Do I Get Python? 
 If you need to download Python, the best place to go is the [official site](https://www.python.org/). You’ll need to download the version specific to your operating system and processor (32 or 64 bit).
 
 **Mac:** Most Mac OS X computers already have Python 2.x installed, which is perfectly fine to use. The best way to install the latest version is to use [Homebrew](https://brew.sh/) to activate and manage them. You’ll find instructions on [how to do that here](https://gist.github.com/mjhea0/3c7d97e1d20ab86eb41e). You can also download Python directly from the PSF if you prefer.
