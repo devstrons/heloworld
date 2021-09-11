@@ -12,9 +12,9 @@ void main(){
 ```
 
 ## What is Dart?
-- Dart is a dynamic, class-based, object-oriented programming language with closure and lexical scope. Syntactically, it is quite similar to Java, C, and JavaScript. If you know any of these programming languages, you can easily learn the Dart programming language.
+- [Dart](https://dart.dev) is a dynamic, class-based, object-oriented programming language with closure `and` lexical scope. Syntactically, it is quite similar to Java, C, `and` JavaScript. `If` you know any of these programming languages, you can easily learn the Dart programming language.
 
-- Dart is an open-source programming language which is widely used to develop the mobile application, modern web-applications, desktop application, and the Internet of Things (IoT) using by Flatter framework. It also supports a few advance concepts such as interfaces, mixins, abstract classes, refield generics, and type interface. It is a compiled language and supports two types of compilation techniques. [Click Here Dart official Website:](https://dart.dev/tutorials)
+- [Dart](https://dart.dev) is an open-source programming language that is widely used to develop the mobile application, modern web applications, desktop applications, `and` the Internet of Things (IoT) using by Flatter framework. It also supports a few advanced concepts such as interfaces, mixins, abstract classes, refield generics, `and` type  interfaces. It is a compiled language and supports two types of compilation techniques. To explore & learn, redirect to [dart tutorials](https://dart.dev/tutorials).
 
 ## What is Dart used for?
 Dart programming language can be used for web and mobile applications and is also suitable for server and desktop applications.
@@ -50,7 +50,7 @@ Dart wasn’t popular and was known as an orphan, but it had a compiler for a Da
 ## Tools You Will Need
 For setting up environment for performing java codes you need with a minimum of 2 GB of RAM.
 You will also need the following softwares :
-- Linux, macOS or Windows xp/7/8/10 operating system
+- Linux, macOS or Windows XP/7/8/10 operating system
 - Dart SDK
 - Text Editors
 ## Setting up Dart development environment
@@ -94,7 +94,7 @@ Install using apt-get
 Install a Debian package
 Installation using apt-get
 
-**Step -1:**
+**Step 1:**
 
  Type the following commands for a one-time setup.
 
@@ -105,7 +105,7 @@ sudo sh -c 'wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub | ap
 sudo sh -c 'wget -qO- https://storage.googleapis.com/download.dartlang.org/linux/debian/dart_stable.list > /etc/apt/sources.list.d/dart_stable.list'  
 ```
 
-**Step - 2:**
+**Step 2:**
 
  Type the following command in terminal to install the Dart SDK using apt-get option.
 
@@ -144,8 +144,7 @@ It was built using flutter and laravel.
 - Quotes
 - Payments
  
-
-**2. [Bit Alarm](https://github.com/damoonrashidi/bitalarm) :** This is a cryptocurrency application created to keep track of different cryptocurrencies
+ **2. [Bit Alarm](https://github.com/damoonrashidi/bitalarm) :** This is a cryptocurrency application created to keep track of different cryptocurrencies
 - Bit Alarm
 - Extra Features
 - Loading indicator.
@@ -186,4 +185,4 @@ Trovami is a flutter based android application, you can use to share your curren
 - View group members on the map
 - Google Sign-in
  
-**Thanks For Reading**
+**Thanks For Reading!**
