@@ -133,11 +133,7 @@ Long story short, it’s entirely up to you which version of Python you use! The
 
 - [PyCharm](https://www.jetbrains.com/pycharm/) by JetBrains
 
-<<<<<<< HEAD
 ## Some cool projects in Python
-=======
-# Some Cool projects in Python
->>>>>>> d34d2fdfeb6605325f292d6f33465495012c6c5d
 - [scikit-learn](https://github.com/scikit-learn) : scikit-learn is a Python module for machine learning built on top of SciPy and distributed under the 3-Clause BSD license.
 
 - [Google Images Download](https://github.com/hardikvasa/google-images-download) : This is a command line python program to search keywords/key-phrases on Google Images and optionally download images to your computer.
