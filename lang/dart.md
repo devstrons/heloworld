@@ -12,6 +12,7 @@ void main(){
 ```
 
 ## What is Dart?
+
 - [Dart](https://dart.dev) is a dynamic, class-based, object-oriented programming language with closure `and` lexical scope. Syntactically, it is quite similar to Java, C, `and` JavaScript. `If` you know any of these programming languages, you can easily learn the Dart programming language.
 
 - [Dart](https://dart.dev) is an open-source programming language that is widely used to develop the mobile application, modern web applications, desktop applications, `and` the Internet of Things (IoT) using by Flatter framework. It also supports a few advanced concepts such as interfaces, mixins, abstract classes, refield generics, `and` type  interfaces. It is a compiled language and supports two types of compilation techniques. To explore & learn, redirect to [dart tutorials](https://dart.dev/tutorials).
@@ -36,6 +37,7 @@ Dart wasn’t popular and was known as an orphan, but it had a compiler for a Da
 - **[Alfred]( https://github.com/rknell/alfred)** - Minimal ExpressJS-inspired server with routing and middlware.
  
 ## Why to use Dart?
+
 - Dart is really flexible
 - Dart embraced the open source ecosystem
 - Dart is pretty easy to learn
@@ -48,6 +50,7 @@ Dart wasn’t popular and was known as an orphan, but it had a compiler for a Da
 - Dart solved a lot of problems, efficiently
 
 ## Tools You Will Need
+
 For setting up environment for performing java codes you need with a minimum of 2 GB of RAM.
 You will also need the following softwares :
 - Linux, macOS or Windows XP/7/8/10 operating system
@@ -130,7 +133,8 @@ To change the PATH for upcoming terminal sessions, use a below command:
 echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.profile
 ```
 
-## Popular Dart IDEs/editors 
+## Popular Dart IDEs/editors
+
 - The Eclipse,VsCode, IntelliJ, and WebStorm are the IDEs from the Jet brains that support the Dart Programming, but WebStorm is more popular than others. We can download it from <https://www.jetbrains.com/webstorm/download/>.
 
 ## Some Cool projects in Dart
