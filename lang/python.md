@@ -84,6 +84,7 @@ As for creating an application or file, there are two ways to do this. You can c
 ## How Do I Get Python? 
 
 **Python Shell vs Text File:**
+
 A shell is a program or tool that can be used to interact with a system. For instance, the Windows operating system shell can be tapped into by using a “terminal” or command line to submit commands and arguments.
 
 With Python, things work a bit differently than an operating system shell. The Python shell is used to interact with an interpreter, which feeds code to a computer in a form that it can understand.
@@ -122,6 +123,7 @@ If you need to download Python, the best place to go is the [official site](http
 **TIP:** If you’re using Windows, be sure to select the option that adds Python.exe to your system path during installation. You can do this by selecting the option next to “Add python.exe to path,” and then choosing your local hard drive as the install location.
 
 **Which Version Should I Use?**
+
 Long story short, it’s entirely up to you which version of Python you use! There’s no right or wrong answer, and it’s painless to make the jump from one version to another should you realize you need to do so later on.
 
 ## Popular Python IDEs/Editors 
