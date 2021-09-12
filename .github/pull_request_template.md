@@ -15,7 +15,7 @@ This PR fixes #
 
 **Discord ID** (e.g.: DEVSTRONS'#0238)
 
-- Your Discord ID <!-- Enter your Discord ID -->
+<!-- Enter your Discord ID -->
 
 <!-- THANK YOU FOR CONTRIBUTING TO DEVSTRONS' PROJECTS!
  
