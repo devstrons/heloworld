@@ -8,7 +8,9 @@ author : AaquibAli
 ```python
 print("hello world")
 ```
+
  ## What is Python?
+ 
 Python is a high-level programming language designed to be easy to read and simple to implement. It is [open source](https://techterms.com/definition/opensource), which means it is free to use, even for commercial applications. Python can run on Mac, Windows, and Unix systems and has also been ported to [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) and .NET virtual machines.
 
 Python is considered a scripting language, like [Ruby](https://techterms.com/definition/ruby) or [Perl](https://techterms.com/definition/perl) and is often used for creating Web [applications](https://techterms.com/definition/application) and dynamic Web content. It is also supported by a number of 2D and 3D imaging programs, enabling users to create custom [plug-ins](https://techterms.com/definition/plugin) and extensions with Python. Examples of applications that support a Python API include GIMP, Inkscape, Blender, and Autodesk Maya.
