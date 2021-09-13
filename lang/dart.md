@@ -23,6 +23,7 @@ The Dart programming language can be used for web and mobile applications and is
 Dart wasn’t popular and was known as an orphan, but it had a compiler for a Dart VM, plus Google had all the control about this language.
 
 **Client Web App Frameworks:**
+
 - **[AngularDart](https://github.com/angulardart/angular)** - AngularDart is a development platform for building mobile and desktop web applications.
 - **[Flutter](https://flutter.dev/)** - Flutter is a framework to build high-performance, cross-platform mobile apps, allowing applications to be written for Android, iOS and Web Apps.
 - **[MDL/Dart](http://mdl.mikemitterer.at)** - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
@@ -30,13 +31,14 @@ Dart wasn’t popular and was known as an orphan, but it had a compiler for a Da
 - **[VueDart](https://vuedart.dev)** - Create Vue web apps using Dart, a progressive, incrementally-adoptable framework for building Web UIs.
 
 **Server Frameworks:**
+
 - **[Jaguar](https://github.com/Jaguar-dart/jaguar)** - A server framework built for speed, simplicity and extensibility.
 - **[Start](https://github.com/lvivski/start)** - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 - **[Shelf](https://pub.dev/packages/shelf)** - Shelf makes it easy to create and compose web servers and parts of web servers.
 - **[Vane](https://github.com/Scorpiion/Vane)** - Framework with built-in server runtime environment and middleware system.
 - **[Rikulo Stream](https://github.com/rikulo/stream)** - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 - **[Alfred]( https://github.com/rknell/alfred)** - Minimal ExpressJS-inspired server with routing and middlware.
- 
+
 ## 🤔 Why to use Dart?
 
 - Dart is really flexible
@@ -53,7 +55,8 @@ Dart wasn’t popular and was known as an orphan, but it had a compiler for a Da
 ## 🛠️ Tools You Will Need
 
 For setting up environment for performing java codes you need with a minimum of 2 GB of RAM.
-You will also need the following softwares :
+You will also need the following softwares:
+
 - Linux, macOS, or Windows XP/7/8/10 operating system
 - Dart SDK
 - Text Editors
@@ -71,7 +74,7 @@ Dart SDK comes as a pre-compiled version. So, download and extracting is all you
 
 **Step 1:** Download Dart SDK
 Go to Dart SDK archive page.
-The URL is [Click Here ](https://dart.dev/tools/sdk/archive)
+You can go to that page by [clicking here](https://dart.dev/tools/sdk/archive)
 Download Dart SDK
 Click on the Dart SDK link. The download will start immediately and a zip file will be downloaded.
 
@@ -86,12 +89,13 @@ Edit environment variable window appears. Click on New and paste the dart sdk bi
 
 **Step 4:** Restart Command Prompt
 Close the existing command prompt window and open a new command prompt.
-Just run the command: 
+Just run the command:
 
 ```bash  
 dart --version 
 ```
-#### **⚙️ Install the Dart SDK on Linux:**
+
+### **⚙️ Install the Dart SDK on Linux:**
 
 The steps of Dart installation on Linux is given below.
 Before installing the Dart, if you are Debian/Ubuntu on AMD64(64-bit Intel) in your local machine, you can install the Dart through one of the following options.
@@ -151,20 +155,22 @@ brew info dart
 
 ## 💻 Popular Dart IDEs/editors
 
-The Eclipse,VsCode, IntelliJ, and WebStorm are the IDEs from the Jet brains that support the Dart Programming, but WebStorm is more popular than others. We can download it from <https://www.jetbrains.com/webstorm/download/>.
+The Eclipse, VSCode, IntelliJ, and WebStorm are the IDEs from the Jet brains that support the Dart Programming, but WebStorm is more popular than others. We can download it from <https://www.jetbrains.com/webstorm/download/>.
 
 ## 🎉 Some Cool projects in Dart
 
 **1. [Invoice Naija](https://github.com/invoiceninja/admin-portal) :** This is a business application for documenting invoices, tasks, and expenses.
 It was built using flutter and laravel.
+
 - Invoice Naija
 - Extra Features
 - Clients
 - Products
 - Quotes
 - Payments
- 
+
  **2. [Bit Alarm](https://github.com/damoonrashidi/bitalarm) :** This is a cryptocurrency application created to keep track of different cryptocurrencies
+
 - Bit Alarm
 - Extra Features
 - Loading indicator.
@@ -175,13 +181,15 @@ It was built using flutter and laravel.
 - Further, Ability to add individual assets in addition to wallets
 
 **3 [Weight Tracker](https://github.com/MSzalek-Mobile/weight_tracker) :** Weight Tracker is an application dedicated to people who want to dump or maintain weight. It allows you to keep an eye on your progress and pursue your weight goals.
+
 - **Screenshot Image**
 - **Extra Features**
 - **Simple**
-- **User-Friendly** 
+- **User-Friendly**
 
 **4. [Flutter Music Player](https://github.com/iampawan/Flutter-Music-Player) :**
 Flutter Music Player is an open-source music player application, available only on Andriod, for now.
+
 - Screenshot Image
 - Extra Features
 - Fetch local songs (Inbuilt Permission)
@@ -199,7 +207,8 @@ Flutter Music Player is an open-source music player application, available only 
 
 **5. [Trovami](https://github.com/Samaritan1011001/Trovami) :**
 Trovami is a flutter based android application, you can use to share your current location with other persons.
-- preview
+
+- Preview
 - Extra Features
 - Create groups and choose to share your live location
 - View group members on the map
@@ -208,5 +217,5 @@ Trovami is a flutter based android application, you can use to share your curren
 ## ✨ Conclusion
 
 As you know, Dart is the programming language of choice in Flutter so you can use everything you’ve learnt to start programming native iOS & Android apps. But remember, Dart is not only used in mobile applications. You can develop server and even Desktop apps with it. So you are know in possession of a powerful set of tools which will allow you build your projects and ideas using this amazing language
- 
-## 🤗 Thanks for Reading!
+
+## 🤗 Thanks for Reading
