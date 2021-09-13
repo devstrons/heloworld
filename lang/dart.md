@@ -13,7 +13,7 @@ void main(){
 
 ## 🐦 What is Dart?
 
-- [Dart](https://dart.dev) is a dynamic, class-based, object-oriented programming language with closure `and` lexical scope. Syntactically, it is quite similar to Java, C, `and` JavaScript. If you know any of these programming languages, you can easily learn the Dart programming language.
+- [Dart](https://dart.dev) is a dynamic, class-based, object-oriented programming language with closure `and` lexical scope. Syntactically, it is quite similar to Java, C, and JavaScript. If you know any of these programming languages, you can easily learn the Dart programming language.
 
 - [Dart](https://dart.dev) is an open-source programming language that is widely used to develop mobile applications, modern web applications, desktop applications, and the Internet of Things (IoT) using the Flatter framework. It also supports a few advanced concepts such as interfaces, mixins, abstract classes, field generics, and type interfaces. It is a compiled language and supports two types of compilation techniques. To explore & learn, redirect to [Dart tutorials](https://dart.dev/tutorials).
 
@@ -110,7 +110,7 @@ sudo sh -c 'wget -qO- https://storage.googleapis.com/download.dartlang.org/linux
 
 **Step 2:**
 
- Type the following command in terminal to install the Dart SDK using apt-get option.
+Type the following command in the terminal to install the Dart SDK using the `apt-get` option.
 
 ```bash
 sudo apt-get update  
