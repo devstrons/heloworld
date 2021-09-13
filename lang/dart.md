@@ -11,13 +11,13 @@ void main(){
 }
 ```
 
-## What is Dart?
+## 🎓 What is Dart?
 
-- [Dart](https://dart.dev) is a dynamic, class-based, object-oriented programming language with closure `and` lexical scope. Syntactically, it is quite similar to Java, C, `and` JavaScript. `If` you know any of these programming languages, you can easily learn the Dart programming language.
+- [Dart](https://dart.dev) is a dynamic, class-based, object-oriented programming language with closure `and` lexical scope. Syntactically, it is quite similar to Java, C, `and` JavaScript. If you know any of these programming languages, you can easily learn the Dart programming language.
 
-- [Dart](https://dart.dev) is an open-source programming language that is widely used to develop the mobile application, modern web applications, desktop applications, `and` the Internet of Things (IoT) using by Flatter framework. It also supports a few advanced concepts such as interfaces, mixins, abstract classes, refield generics, `and` type  interfaces. It is a compiled language and supports two types of compilation techniques. To explore & learn, redirect to [dart tutorials](https://dart.dev/tutorials).
+- [Dart](https://dart.dev) is an open-source programming language that is widely used to develop mobile applications, modern web applications, desktop applications, and the Internet of Things (IoT) using the Flatter framework. It also supports a few advanced concepts such as interfaces, mixins, abstract classes, field generics, and type interfaces. It is a compiled language and supports two types of compilation techniques. To explore & learn, redirect to [Dart tutorials](https://dart.dev/tutorials).
 
-## What is Dart used for?
+## 📚 What is Dart used for?
 Dart programming language can be used for web and mobile applications and is also suitable for server and desktop applications.
 Dart wasn’t popular and was known as an orphan, but it had a compiler for a Dart VM, also Google had all the control about this language.
 
@@ -36,7 +36,7 @@ Dart wasn’t popular and was known as an orphan, but it had a compiler for a Da
 - **[Rikulo Stream](https://github.com/rikulo/stream)** - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 - **[Alfred]( https://github.com/rknell/alfred)** - Minimal ExpressJS-inspired server with routing and middlware.
  
-## Why to use Dart?
+## 🤔 Why to use Dart?
 
 - Dart is really flexible
 - Dart embraced the open source ecosystem
@@ -49,14 +49,14 @@ Dart wasn’t popular and was known as an orphan, but it had a compiler for a Da
 - Dart is backed by a tech giant
 - Dart solved a lot of problems, efficiently
 
-## Tools You Will Need
+## 🛠️ Tools You Will Need
 
 For setting up environment for performing java codes you need with a minimum of 2 GB of RAM.
 You will also need the following softwares :
 - Linux, macOS or Windows XP/7/8/10 operating system
 - Dart SDK
 - Text Editors
-## Setting up Dart development environment
+## ⚙️ Setting up Dart development environment
 
 **Executing Script Online with DartPad:**
 You may test your scripts online by using the online editor at <https://dartpad.dartlang.org/>. The Dart Editor executes the script and displays both HTML as well as console output. The online editor is shipped with a set of preset code samples.
@@ -90,7 +90,7 @@ Just run the command:
 dart --version 
 ```
 
-**Install the Dart SDK on Linux:**
+** ⚙️ Install the Dart SDK on Linux:**
 The steps of Dart installation on Linux is given below.
 Before installing the Dart, if you are Debian/Ubuntu on AMD64(64-bit Intel) in your local machine, you can install the Dart through one of the following options.
 
@@ -120,7 +120,7 @@ sudo apt-get install dart
 
 It will successfully download the Dart SDK.
 
-**Installation a Debian Package:**
+** ⚙️ Installation a Debian Package:**
 
 We can download Dart SDK as a Debian package in the .deb package format. To make all Dart binaries accessible, we have to change the PATH by typing the following command.
 
@@ -129,16 +129,14 @@ export PATH="$PATH:/usr/lib/dart/bin"
 ```
 
 To change the PATH for upcoming terminal sessions, use a below command:
-
 ```bash
 echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.profile
 ```
-
-## Popular Dart IDEs/editors
+## 💻 Popular Dart IDEs/editors
 
 - The Eclipse,VsCode, IntelliJ, and WebStorm are the IDEs from the Jet brains that support the Dart Programming, but WebStorm is more popular than others. We can download it from <https://www.jetbrains.com/webstorm/download/>.
 
-## Some Cool projects in Dart
+## 🎉 Some Cool projects in Dart
 
 **1. [Invoice Naija](https://github.com/invoiceninja/admin-portal) :** This is a business application for documenting invoices, tasks, and expenses.
 It was built using flutter and laravel.
