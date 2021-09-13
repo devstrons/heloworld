@@ -9,7 +9,7 @@ author : AaquibAli
 print("hello world")
 ```
 
- ## What is Python?
+ ## 🐍 What is Python?
  
 Python is a high-level programming language designed to be easy to read and simple to implement. It is [open source](https://techterms.com/definition/opensource), which means it is free to use, even for commercial applications. Python can run on Mac, Windows, and Unix systems and has also been ported to [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) and .NET virtual machines.
 
@@ -17,7 +17,7 @@ Python is considered a scripting language, like [Ruby](https://techterms.com/def
 
 Scripts written in Python ([.PY](https://fileinfo.com/extension/py) files) can be [parsed](https://techterms.com/definition/parse) and run immediately. They can also be saved as a compiled programs ([.PYC](https://fileinfo.com/extension/pyc) files), which are often used as programming modules that can be referenced by other Python programs.
 
-### Why is Python so popular?
+### 🤔 Why is Python so popular?
 
 According to [the TIOBE index](https://www.tiobe.com/tiobe-index/), which measures the popularity of programming languages, Python is the third most popular programming language in the world, behind only Java and C. 
 
@@ -43,7 +43,7 @@ There are many reasons for the ubiquity of Python, including :
 
 - **Automation** 
 
-## Why to use Python?
+## 🤔 Why to use Python?
 
 We got why `Python is so popular` at the moment above, but why should one learn how to implement it? Aside from the ease of use and versatility mentioned above, there are several good reasons to learn Python: 
 
@@ -53,11 +53,12 @@ We got why `Python is so popular` at the moment above, but why should one learn 
 
 - **There will be many job opportunities :** Given that Python can be used in many emerging technologies, such as AI, machine learning, and data analytics, it’s likely that it’s a future-proof skill. Learning Python now could benefit you across your career. 
 
-### What is Python used for?
+### 	🧐 What is Python used for?
 
 Clearly, Python is a popular and in-demand skill to learn. But what is python programming used for? We’ve already briefly touched on some of the areas it can be applied to, and we’ve expanded on these and more Python examples below. 
 
 **Python can be used for :** 
+
 - **AI and machine learning** 
 
 - **Data analytics** 
@@ -78,7 +79,7 @@ Clearly, Python is a popular and in-demand skill to learn. But what is python pr
 
 - **Design**
 
-## Setting up a Python development environment
+## ⚙️ Setting up a Python development environment
 
 One of the most important things you’ll do when working with any programming language is setup a development environment which allows you to execute the code you write. Without this, you will never be able to check your work and see if your website or application is free of syntax errors.
 
@@ -88,9 +89,9 @@ To convert your code, you must first use a Python shell, which calls upon the in
 
 As for creating an application or file, there are two ways to do this. You can create a program using a simple text editor like WordPad, or Notepad++. You can also create a program using a Python shell. There are advantages and disadvantages to each method, which we’ll discuss next.
 
-### How Do I Get Python? 
+### 👀 How Do I Get Python? 
 
-**Python Shell vs Text File:**
+**Python Shell vs Text File :**
 
 A shell is a program or tool that can be used to interact with a system. For instance, the Windows operating system shell can be tapped into by using a “terminal” or command line to submit commands and arguments.
 
@@ -106,7 +107,7 @@ This makes it more difficult to spot errors in your code, and it can also be fru
 
 There are text editors with increased functionality – like Notepad++ – which were specifically developed with programming in mind.
 
-### How to Get Started with Python?
+### 👻 How to Get Started with Python?
 
 Before you can do anything with a programming language, you first need to configure the development environment. Now, we’re going to cover how to set up Python and the interpreter that will execute your custom programs.
 
@@ -130,11 +131,11 @@ If you need to download Python, the best place to go is the [official site](http
 
 **TIP:** If you’re using Windows, be sure to select the option that adds Python.exe to your system path during installation. You can do this by selecting the option next to “Add python.exe to path,” and then choosing your local hard drive as the install location.
 
-**Which Version Should I Use?**
+**⚙️ Which Version Should I Use?**
 
-Long story short, it’s entirely up to you which version of Python you use! There’s no right or wrong answer, and it’s painless to make the jump from one version to another should you realize you need to do so later on.
+   Long story short, it’s entirely up to you which version of   Python you use! There’s no right or wrong answer, and it’s painless to make the jump from one version to another should you realize you need to do so later on.
 
-## Popular Python IDEs/Editors
+## 💻 Popular Python IDEs/Editors
 
 - [Visual Studio Code](https://code.visualstudio.com/download) by Microsoft
 
@@ -144,7 +145,7 @@ Long story short, it’s entirely up to you which version of Python you use! The
 
 - [PyCharm](https://www.jetbrains.com/pycharm/) by JetBrains
 
-## Some cool projects in Python
+## 🎉 Some cool projects in Python
 
 - [scikit-learn](https://github.com/scikit-learn) : scikit-learn is a Python module for machine learning built on top of SciPy and distributed under the 3-Clause BSD license.
 
@@ -160,10 +161,10 @@ Long story short, it’s entirely up to you which version of Python you use! The
 
 - [Cookiecutter](https://github.com/cookiecutter/cookiecutter) : A command-line utility that creates projects from cookiecutters (project templates)
  
-## Conclusion
+## ✨ Conclusion 
 
 That concludes our look at what Python programming can be used for. As you can see, there are many applications for this popular language, with a wide support network and a diverse range of libraries that can help. 
 
 There are many reasons why you might want to start learning Python. It’s a future-proof and in-demand skill that’s required across all kinds of industries. What’s more, we have a broad selection of Python courses that can help you either master the basics or develop some more specific skills.
 
-## Thanks for Reading :)
+## 🤗 Thanks for Reading :) 
