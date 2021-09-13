@@ -2,7 +2,7 @@
 lang: Python
 syntax: python
 title: Python is a snake language!
-author : AaquibAli
+author: AaquibAli
 ---
 
 ```python
@@ -17,7 +17,7 @@ Python is considered a scripting language, like [Ruby](https://techterms.com/def
 
 Scripts written in Python ([.PY](https://fileinfo.com/extension/py) files) can be [parsed](https://techterms.com/definition/parse) and run immediately. They can also be saved as a compiled programs ([.PYC](https://fileinfo.com/extension/pyc) files), which are often used as programming modules that can be referenced by other Python programs.
 
-### 📚 Why is Python so popular?
+### 🤔 Why is Python so popular?
 
 According to [the TIOBE index](https://www.tiobe.com/tiobe-index/), which measures the popularity of programming languages, Python is the third most popular programming language in the world, behind only Java and C. 
 
@@ -43,13 +43,13 @@ There are many reasons for the ubiquity of Python, including :
 
 - **Automation** 
 
-## 🤔 Why to use Python?
+## 📚 Why to use Python?
 
 We got why `Python is so popular` at the moment above, but why should one learn how to implement it? Aside from the ease of use and versatility mentioned above, there are several good reasons to learn Python: 
 
 - **Python developers are in demand :** Across a wide range of fields, there is a [demand for those with Python skills](https://www.daxx.com/blog/development-trends/python-developer-salary-usa). If you’re looking to start or change your career, it could be a vital skill to help you. 
 
-- **It could lead to a well-paid career :** Data suggests that the median annual salary for those with Python skills is [around £65,000 in the UK](https://www.itjobswatch.co.uk/jobs/uk/python.do) 
+- **It could lead to a well-paid career :** Data suggests that the median annual salary for those with Python skills is [around £65,000 in the UK](https://www.itjobswatch.co.uk/jobs/uk/python.do) _(at present)_.
 
 - **There will be many job opportunities :** Given that Python can be used in many emerging technologies, such as AI, machine learning, and data analytics, it’s likely that it’s a future-proof skill. Learning Python now could benefit you across your career. 
 
@@ -57,27 +57,30 @@ We got why `Python is so popular` at the moment above, but why should one learn 
 
 Clearly, Python is a popular and in-demand skill to learn. But what is python programming used for? We’ve already briefly touched on some of the areas it can be applied to, and we’ve expanded on these and more Python examples below. 
 
-**Python can be used for :** 
+#### Python can be used for:
 
-- **AI and machine learning** 
+1. **AI and machine learning**
+2. **Data analytics**
+3. **Data visualisation**
+4. **Programming applications**
+5. **Web development**
+6. **Game development**
+7. **Language development**
+8. **Finance**
+9. **SEO**
+10. **Design & more...**
 
-- **Data analytics** 
+## 🛠️ Tools You Will Need
 
-- **Data visualisation** 
+You are probably familiar with Windows as they are widely used throughout the world. The latest version of Windows is Windows 10. Generally, you should be on the latest version of the OS, but if you have an older machine or other software requires it, you might be stuck with Windows 7 or older. You should be fine with both, but be aware that if you want to use Python 3.5 or above, Windows XP is not supported.
 
-- **Programming applications** 
+If you go for Windows, there are some shell options for you. Windows comes with the Command line, but also Powershell. Powershell feels more like a normal terminal you would know from the Linux- or Mac world.
 
-- **Web development** 
+The Mac has a built-in terminal that works right out of the box. You can install variations, like iTerm if you like more flexibility, but the original does its job perfectly. Python comes pre-installed with macOS, but make sure you check the version so you are up to date.
 
-- **Game development** 
+Most text editors and IDEs work on macOS.
 
-- **Language development**
-
-- **Finance**
-
-- **SEO**
-
-- **Design**
+macOS, like Windows, is not Open source, but it comes with the machine. macOS only works on a Mac (officially) so you are tied down to Apple hardware.
 
 ## ⚙️ Setting up a Python development environment
 
@@ -89,9 +92,7 @@ To convert your code, you must first use a Python shell, which calls upon the in
 
 As for creating an application or file, there are two ways to do this. You can create a program using a simple text editor like WordPad, or Notepad++. You can also create a program using a Python shell. There are advantages and disadvantages to each method, which we’ll discuss next.
 
-### ⚙️ How Do I Get Python? 
-
-#### Python Shell vs Text File :
+#### **⚙️ Python Shell vs Text File:**
 
 A shell is a program or tool that can be used to interact with a system. For instance, the Windows operating system shell can be tapped into by using a “terminal” or command line to submit commands and arguments.
 
@@ -107,17 +108,16 @@ This makes it more difficult to spot errors in your code, and it can also be fru
 
 There are text editors with increased functionality – like Notepad++ – which were specifically developed with programming in mind.
 
-### ⚙️ How to Get Started with Python?
+#### **⚙️ How to Get Started with Python?**
 
 Before you can do anything with a programming language, you first need to configure the development environment. Now, we’re going to cover how to set up Python and the interpreter that will execute your custom programs.
-
 
 Python comes pre-installed on Mac and a majority of Linux distributions. However, you may need to download an updated version depending on how old your system is.
 
 **TIP:** You can easily check your Python version by opening the terminal and running the following command:
 
 ```
-     python --version
+ python --version
 ```
 If you’re running Windows, you’ll need to download Python from the Python Software Foundation (link below).
 
@@ -167,4 +167,4 @@ That concludes our look at what Python programming can be used for. As you can s
 
 There are many reasons why you might want to start learning Python. It’s a future-proof and in-demand skill that’s required across all kinds of industries. What’s more, we have a broad selection of Python courses that can help you either master the basics or develop some more specific skills.
 
-## Thanks for Reading 🤗
+## 🤗 Thanks for Reading!
