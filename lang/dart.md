@@ -57,6 +57,7 @@ You will also need the following softwares :
 - Linux, macOS, or Windows XP/7/8/10 operating system
 - Dart SDK
 - Text Editors
+
 ## ⚙️ Setting up Dart development environment
 
 **Executing Script Online with DartPad:**
@@ -133,7 +134,7 @@ To change the PATH for upcoming terminal sessions, use a below command:
 echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.profile
 ```
 
-#### **⚙️Install the Dark SDK on Mac**
+#### **⚙️ Install the Dark SDK on Mac**
 
 **Step 1:** We should have a Homebrew package manager, but if we don't have it then install the Homebrew and run the following command. It will successfully download the Dart on the Mac.
 
@@ -150,7 +151,7 @@ brew info dart
 
 ## 💻 Popular Dart IDEs/editors
 
-- The Eclipse,VsCode, IntelliJ, and WebStorm are the IDEs from the Jet brains that support the Dart Programming, but WebStorm is more popular than others. We can download it from <https://www.jetbrains.com/webstorm/download/>.
+The Eclipse,VsCode, IntelliJ, and WebStorm are the IDEs from the Jet brains that support the Dart Programming, but WebStorm is more popular than others. We can download it from <https://www.jetbrains.com/webstorm/download/>.
 
 ## 🎉 Some Cool projects in Dart
 
@@ -204,7 +205,7 @@ Trovami is a flutter based android application, you can use to share your curren
 - View group members on the map
 - Google Sign-in
 
-## ✨Conclusion
+## ✨ Conclusion
 
 As you know, Dart is the programming language of choice in Flutter so you can use everything you’ve learnt to start programming native iOS & Android apps. But remember, Dart is not only used in mobile applications. You can develop server and even Desktop apps with it. So you are know in possession of a powerful set of tools which will allow you build your projects and ideas using this amazing language
  
