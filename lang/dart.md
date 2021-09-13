@@ -19,7 +19,7 @@ void main(){
 
 ## 📚 What is Dart used for?
 
-Dart programming language can be used for web and mobile applications and is also suitable for server and desktop applications.
+The Dart programming language can be used for web and mobile applications and is also suitable for server and desktop applications.
 Dart wasn’t popular and was known as an orphan, but it had a compiler for a Dart VM, also Google had all the control about this language.
 
 **Client Web App Frameworks:**
