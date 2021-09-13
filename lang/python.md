@@ -17,7 +17,7 @@ Python is considered a scripting language, like [Ruby](https://techterms.com/def
 
 Scripts written in Python ([.PY](https://fileinfo.com/extension/py) files) can be [parsed](https://techterms.com/definition/parse) and run immediately. They can also be saved as a compiled programs ([.PYC](https://fileinfo.com/extension/pyc) files), which are often used as programming modules that can be referenced by other Python programs.
 
-### 🤔 Why is Python so popular?
+### 📚 Why is Python so popular?
 
 According to [the TIOBE index](https://www.tiobe.com/tiobe-index/), which measures the popularity of programming languages, Python is the third most popular programming language in the world, behind only Java and C. 
 
@@ -53,7 +53,7 @@ We got why `Python is so popular` at the moment above, but why should one learn 
 
 - **There will be many job opportunities :** Given that Python can be used in many emerging technologies, such as AI, machine learning, and data analytics, it’s likely that it’s a future-proof skill. Learning Python now could benefit you across your career. 
 
-### 	🧐 What is Python used for?
+### 🧐 What is Python used for?
 
 Clearly, Python is a popular and in-demand skill to learn. But what is python programming used for? We’ve already briefly touched on some of the areas it can be applied to, and we’ve expanded on these and more Python examples below. 
 
@@ -89,9 +89,9 @@ To convert your code, you must first use a Python shell, which calls upon the in
 
 As for creating an application or file, there are two ways to do this. You can create a program using a simple text editor like WordPad, or Notepad++. You can also create a program using a Python shell. There are advantages and disadvantages to each method, which we’ll discuss next.
 
-### 👀 How Do I Get Python? 
+### ⚙️ How Do I Get Python? 
 
-**Python Shell vs Text File :**
+#### Python Shell vs Text File :
 
 A shell is a program or tool that can be used to interact with a system. For instance, the Windows operating system shell can be tapped into by using a “terminal” or command line to submit commands and arguments.
 
@@ -107,7 +107,7 @@ This makes it more difficult to spot errors in your code, and it can also be fru
 
 There are text editors with increased functionality – like Notepad++ – which were specifically developed with programming in mind.
 
-### 👻 How to Get Started with Python?
+### ⚙️ How to Get Started with Python?
 
 Before you can do anything with a programming language, you first need to configure the development environment. Now, we’re going to cover how to set up Python and the interpreter that will execute your custom programs.
 
@@ -133,7 +133,7 @@ If you need to download Python, the best place to go is the [official site](http
 
 **⚙️ Which Version Should I Use?**
 
-   Long story short, it’s entirely up to you which version of   Python you use! There’s no right or wrong answer, and it’s painless to make the jump from one version to another should you realize you need to do so later on.
+Long story short, it’s entirely up to you which version of   Python you use! There’s no right or wrong answer, and it’s painless to make the jump from one version to another should you realize you need to do so later on.
 
 ## 💻 Popular Python IDEs/Editors
 
@@ -167,4 +167,4 @@ That concludes our look at what Python programming can be used for. As you can s
 
 There are many reasons why you might want to start learning Python. It’s a future-proof and in-demand skill that’s required across all kinds of industries. What’s more, we have a broad selection of Python courses that can help you either master the basics or develop some more specific skills.
 
-## 🤗 Thanks for Reading :) 
+## Thanks for Reading 🤗
