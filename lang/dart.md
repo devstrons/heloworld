@@ -54,7 +54,7 @@ Dart wasn’t popular and was known as an orphan, but it had a compiler for a Da
 
 For setting up environment for performing java codes you need with a minimum of 2 GB of RAM.
 You will also need the following softwares :
-- Linux, macOS or Windows XP/7/8/10 operating system
+- Linux, macOS, or Windows XP/7/8/10 operating system
 - Dart SDK
 - Text Editors
 ## ⚙️ Setting up Dart development environment
