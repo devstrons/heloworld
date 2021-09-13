@@ -82,7 +82,7 @@ Most text editors and IDEs work on macOS.
 
 macOS, like Windows, is not Open source, but it comes with the machine. macOS only works on a Mac (officially) so you are tied down to Apple hardware.
 
-## ⚙️ Setting up a Python development environment
+## ⚙️ Setting up Python development environment
 
 One of the most important things you’ll do when working with any programming language is setup a development environment which allows you to execute the code you write. Without this, you will never be able to check your work and see if your website or application is free of syntax errors.
 
