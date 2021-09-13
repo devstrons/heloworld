@@ -1,7 +1,7 @@
 ---
 lang: Dart
 syntax: dart
-title: Dart is Smart Language!
+title: Dart is Sky Language!
 author: chandan0000
 ---
 
@@ -11,7 +11,7 @@ void main(){
 }
 ```
 
-## 🎓 What is Dart?
+## 🐦 What is Dart?
 
 - [Dart](https://dart.dev) is a dynamic, class-based, object-oriented programming language with closure `and` lexical scope. Syntactically, it is quite similar to Java, C, `and` JavaScript. If you know any of these programming languages, you can easily learn the Dart programming language.
 
@@ -60,10 +60,11 @@ You will also need the following softwares :
 
 **Executing Script Online with DartPad:**
 You may test your scripts online by using the online editor at <https://dartpad.dartlang.org/>. The Dart Editor executes the script and displays both HTML as well as console output. The online editor is shipped with a set of preset code samples.
+
 **Dart Installation:**
+
 **Install Dart on Windows:**
 In this tutorial, we will provide a step by step process to get Dart installed on Windows.
-
 Dart SDK comes as a pre-compiled version. So, download and extracting is all you need to do.
 
 **Step 1:** Download Dart SDK
@@ -83,17 +84,15 @@ Edit environment variable window appears. Click on New and paste the dart sdk bi
 
 **Step 4:** Restart Command Prompt
 Close the existing command prompt window and open a new command prompt.
-
 Just run the command: 
 
 ```bash  
 dart --version 
 ```
+#### **⚙️ Install the Dart SDK on Linux:**
 
-** ⚙️ Install the Dart SDK on Linux:**
 The steps of Dart installation on Linux is given below.
 Before installing the Dart, if you are Debian/Ubuntu on AMD64(64-bit Intel) in your local machine, you can install the Dart through one of the following options.
-
 Install using apt-get
 Install a Debian package
 Installation using apt-get
@@ -120,7 +119,7 @@ sudo apt-get install dart
 
 It will successfully download the Dart SDK.
 
-** ⚙️ Installation a Debian Package:**
+#### **⚙️ Installation a Debian Package:**
 
 We can download Dart SDK as a Debian package in the .deb package format. To make all Dart binaries accessible, we have to change the PATH by typing the following command.
 
@@ -132,6 +131,19 @@ To change the PATH for upcoming terminal sessions, use a below command:
 ```bash
 echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.profile
 ```
+
+#### **⚙️Install the Dark SDK on Mac**
+
+**Step 1:** We should have Homebrew package manager, but if we don't have it then install the Homebrew and run the following command. It will successfully download the Dart on the Mac.
+```bash
+ brew tap dart-lang/dart  
+ brew install dart  
+```
+**Step 2:** To verify which version we have installed, use the following command.
+```bash
+brew info dart
+```
+
 ## 💻 Popular Dart IDEs/editors
 
 - The Eclipse,VsCode, IntelliJ, and WebStorm are the IDEs from the Jet brains that support the Dart Programming, but WebStorm is more popular than others. We can download it from <https://www.jetbrains.com/webstorm/download/>.
