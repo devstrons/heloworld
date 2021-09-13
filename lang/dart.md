@@ -18,6 +18,7 @@ void main(){
 - [Dart](https://dart.dev) is an open-source programming language that is widely used to develop mobile applications, modern web applications, desktop applications, and the Internet of Things (IoT) using the Flatter framework. It also supports a few advanced concepts such as interfaces, mixins, abstract classes, field generics, and type interfaces. It is a compiled language and supports two types of compilation techniques. To explore & learn, redirect to [Dart tutorials](https://dart.dev/tutorials).
 
 ## 📚 What is Dart used for?
+
 Dart programming language can be used for web and mobile applications and is also suitable for server and desktop applications.
 Dart wasn’t popular and was known as an orphan, but it had a compiler for a Dart VM, also Google had all the control about this language.
 
@@ -98,8 +99,7 @@ Install a Debian package
 Installation using apt-get
 
 **Step 1:**
-
- Type the following commands for a one-time setup.
+Type the following commands for a one-time setup.
 
 ```bash
 sudo apt-get update  
@@ -128,18 +128,22 @@ export PATH="$PATH:/usr/lib/dart/bin"
 ```
 
 To change the PATH for upcoming terminal sessions, use a below command:
+
 ```bash
 echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.profile
 ```
 
 #### **⚙️Install the Dark SDK on Mac**
 
-**Step 1:** We should have Homebrew package manager, but if we don't have it then install the Homebrew and run the following command. It will successfully download the Dart on the Mac.
+**Step 1:** We should have a Homebrew package manager, but if we don't have it then install the Homebrew and run the following command. It will successfully download the Dart on the Mac.
+
 ```bash
  brew tap dart-lang/dart  
  brew install dart  
 ```
+
 **Step 2:** To verify which version we have installed, use the following command.
+
 ```bash
 brew info dart
 ```
