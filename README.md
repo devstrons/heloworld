@@ -21,26 +21,26 @@
 1. Create a markdown file in the `lang` folder with the name of the language you want to add (ex: `java.md`).
 2. Start with the below template and fill the appropriate fields with the required information.
 ````markdown
-    ---
-    lang: Java
-    syntax: java
-    title: Java is a statically typed JVM based programming language.
-    author: devstrons
-    ---
+---
+lang: Java
+syntax: java
+title: Java is a statically typed JVM based programming language.
+author: devstrons
+---
 
-    ```java
-    public class HelloWorld {
-        public static void main(String[] args) {
-            System.out.println("Hello, World!"); 
-        }
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
     }
-    ```
+}
+```
 
-    ## What is Java?
-    ## Why to use Java?
-    ## Setting up Java development environment
-    ## Some cool projects in Java
-    ## Conclusion
+## What is Java?
+## Why to use Java?
+## Setting up Java development environment
+## Some cool projects in Java
+## Conclusion
 ````
 
 4. Submit a pull request with the title **`📖 adding [language] language`**
