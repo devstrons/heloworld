@@ -10,49 +10,61 @@ import { Octokit } from 'https://cdn.skypack.dev/@octokit/rest'
 // fetches a list of all available languages
 // from the API server
 export const getLanguages = async () => {
-    const { data } = await axios({
-        baseURL: import.meta.env.VITE_API_BASE,
-        method: 'GET',
-        url: '/api',
-    })
+    const github = new Octokit()
+    let res
 
-    return data
+    // depending on whether we're running in development
+    // or production, either fetch from GitHub itself
+    // or use our own custom built server
+    if (import.meta.env.PROD) {
+        res = await github.repos.getContent({
+            owner: 'vsnthdev',
+            repo: 'hello-world',
+            path: '/public/lang',
+        })
+    } else {
+        res = await axios({
+            method: 'GET',
+            url: 'http://localhost:3001',
+        })
+    }
+
+    return res.data
 }
 
 // picks a random language string when passed with an
 // array of language names
 export const pickRandom = languages =>
-    languages.langs[Math.floor(Math.random() * languages.langs.length)]
+    languages[Math.floor(Math.random() * languages.length)]
 
 // gets the author information if given an API
 // response from GitHub's API
-const getAuthor = async language => {
-    const { author: username } = language.data
-    if (!username) return language
+export const getAuthor = async data => {
+    const { author: username } = data
+    if (!username) return
 
     // initialize a new GitHub API class
     const github = new Octokit()
 
-    const { data } = await github.rest.users.getByUsername({ username })
+    const {
+        data: { login, avatar_url, name, location, html_url },
+    } = await github.rest.users.getByUsername({ username })
 
-    language.data.author = {
-        username: data.login,
-        avatar: data.avatar_url,
-        name: data.name,
-        location: data.location,
-        link: data.html_url,
+    data.author = {
+        username: login,
+        avatar: avatar_url,
+        name: name,
+        location: location,
+        link: html_url,
     }
-
-    return language
 }
 
 // gets information about a single language
-export const getLanguage = async name => {
+export const getLanguage = async lang => {
     const { data } = await axios({
-        baseURL: import.meta.env.VITE_API_BASE,
+        url: lang.download_url,
         method: 'GET',
-        url: `/api/${name}`,
     })
 
-    return await getAuthor(data)
+    return data
 }

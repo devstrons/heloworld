@@ -21,25 +21,29 @@
     },
     "scripts": {
         "clean": "rm -rf dist",
-        "dev": "vite --config vite.config.js src",
+        "dev:vite": "vite --config vite.config.js src",
+        "dev:server": "node server/index.js",
+        "dev": "concurrently \"npm run dev:vite\" \"npm run dev:server\"",
         "build": "vite --config vite.config.js build src",
         "preview": "npm run build && sirv dist --single",
         "lint": "run-p 'lint:*'",
         "lint:html": "prettier -w 'src/**/*.html'",
-        "lint:js": "eslint --fix -c .eslintrc.cjs '**/*.+(cjs|js)'"
+        "lint:js": "eslint --fix -c .eslintrc.cjs '**/*.+(cjs|js)'",
+        "server": "node server/index.js"
     },
     "dependencies": {
+        "@octokit/rest": "^18.10.0",
         "@vsnthdev/utilities-node": "^2.0.1",
+        "es-dirname": "^0.1.0",
         "glob": "^7.1.7",
         "gray-matter": "^4.0.3",
-        "marked": "^3.0.2",
         "sanitize-html": "^2.4.0"
     },
     "devDependencies": {
         "@babel/core": "^7.15.0",
         "@babel/eslint-parser": "^7.15.0",
         "@babel/plugin-syntax-top-level-await": "^7.14.5",
-        "@octokit/rest": "^18.9.1",
+        "@hapi/hapi": "^20.1.5",
         "@tailwindcss/typography": "^0.4.1",
         "@types/glob": "^7.1.4",
         "@types/marked": "^3.0.0",
@@ -47,6 +51,7 @@
         "@vercel/node": "^1.12.1",
         "autoprefixer": "^10.3.2",
         "axios": "^0.21.1",
+        "concurrently": "^6.2.1",
         "eslint": "^7.32.0",
         "eslint-config-prettier": "^8.3.0",
         "eslint-plugin-prettier": "^3.4.1",
