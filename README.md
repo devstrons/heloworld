@@ -43,7 +43,7 @@ public class HelloWorld {
 ## Conclusion
 ````
 
-4. Submit a pull request with the title **`📖 adding [language] language`**
+4. Submit a pull request with the title **`📖 adding <lang> language`**
 5. **That's it!** ✨ Now you're pull request will be merged as soon as possible.
 
 ## 🛠 Building
