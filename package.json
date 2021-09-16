@@ -23,13 +23,12 @@
         "clean": "rm -rf dist",
         "dev:vite": "vite --config vite.config.js src",
         "dev:server": "node server/index.js",
-        "dev": "concurrently \"npm run dev:vite\" \"npm run dev:server\"",
+        "dev": "concurrently 'npm run dev:vite' 'npm run dev:server' -n '🌏,🤖'",
         "build": "vite --config vite.config.js build src",
-        "preview": "npm run build && sirv dist --single",
+        "preview": "concurrently 'npm run build && sirv dist --single' 'npm run dev:server' -n '🌏,🤖'",
         "lint": "run-p 'lint:*'",
         "lint:html": "prettier -w 'src/**/*.html'",
-        "lint:js": "eslint --fix -c .eslintrc.cjs '**/*.+(cjs|js)'",
-        "server": "node server/index.js"
+        "lint:js": "eslint --fix -c .eslintrc.cjs '**/*.+(cjs|js)'"
     },
     "dependencies": {
         "@octokit/rest": "^18.10.0",

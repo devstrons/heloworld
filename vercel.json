@@ -1,8 +1,0 @@
-{
-    "rewrites": [
-        {
-            "source": "/api/:lang",
-            "destination": "/api/lang"
-        }
-    ]
-}

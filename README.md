@@ -50,7 +50,7 @@
 
 * `npm install` — Installs all dependencies.
 * `npm run clean` — Cleans the generated artifacts by Vite.
-* `npm run dev` — Starts Vercel serverless functions & Vite at the same time.
+* `npm run dev` — Starts the development server and Vite at the same time.
 * `npm run build` — Deletes existing build files & freshly bundles JavaScript code.
 * `npm run preview` — Previews the production bundles and uses production API.
 * `npm run lint` — Lints and formats both frontend and API code.

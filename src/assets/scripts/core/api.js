@@ -18,9 +18,9 @@ export const getLanguages = async () => {
     // or use our own custom built server
     if (import.meta.env.PROD) {
         res = await github.repos.getContent({
-            owner: 'vsnthdev',
+            owner: 'devstrons',
             repo: 'hello-world',
-            path: '/public/lang',
+            path: '/lang',
         })
     } else {
         res = await axios({
