@@ -16,7 +16,6 @@ const handler = async (req, h) =>
                     dirname(),
                     '..',
                     '..',
-                    'public',
                     'lang',
                     `${req.params.lang}.md`,
                 ),

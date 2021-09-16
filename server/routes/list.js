@@ -11,12 +11,9 @@ import path from 'path'
 
 const handler = async () => {
     const returnable = []
-    const files = glob.sync(
-        path.join(dirname(), '..', '..', 'public', 'lang', '*.md'),
-        {
-            nodir: true,
-        },
-    )
+    const files = glob.sync(path.join(dirname(), '..', '..', 'lang', '*.md'), {
+        nodir: true,
+    })
 
     for (const file of files) {
         const stats = await fs.stat(file)
