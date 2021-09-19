@@ -2,7 +2,7 @@
 lang: Dart
 syntax: dart
 title: Dart is Sky Language!
-author: chandano
+author: chandankumaro
 ---
 
 ```dart
