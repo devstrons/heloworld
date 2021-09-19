@@ -18,7 +18,7 @@
 
 # ⚡️ Contribution Guidelines
 
-1. Create a markdown file in the `lang` folder with the name of the language you want to add (ex: `java.md`).
+1. Create a markdown file in the `lang` folder with the name of the language you want to add (e.g.: `java.md`).
 2. Start with the below template and fill the appropriate fields with the required information.
 ````markdown
 ---
@@ -43,8 +43,12 @@ public class HelloWorld {
 ## Conclusion
 ````
 
-4. Submit a pull request with the title **`📖 adding <lang> language`**
-5. **That's it!** ✨ Now you're pull request will be merged as soon as possible.
+4. Submit a pull request with the title **`Adding [language] language`**
+5. **That's it!** ✨ Now your pull request will be merged as soon as possible.
+
+**Note:** 
+For a faster and easier process, you can use the [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/devstrons/hello-world) service and run all the commands there.</br>
+Gitpod will automatically run `npm install` for you. After that, you can run all the commands you want.
 
 ## 🛠 Building
 
@@ -56,7 +60,8 @@ public class HelloWorld {
 * `npm run lint` — Lints and formats both frontend and API code.
 
 ## 📰 License
-> The **hello world** project is released under the [MIT license](https://github.com/devstrons/hello-world/blob/main/LICENSE.md). <br> Developed &amp; maintained By the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
+
+> The **hello world** project is released under the [MIT license](https://github.com/devstrons/hello-world/blob/main/LICENSE.md). <br> Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
 <hr>
 
 > **YouTube** <a href="https://www.youtube.com/channel/UCG7JT7yqut81fqFsVBX6oMg" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
