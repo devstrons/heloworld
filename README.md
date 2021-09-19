@@ -46,6 +46,10 @@
 4. Submit a pull request with the title **`Adding [language] language`**
 5. **That's it!** ✨ Now your pull request will be merged as soon as possible.
 
+**Note:** 
+For a faster and easier process, you can use the [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/devstrons/hello-world) service and run all the commands there.</br>
+Gitpod will automatically run `npm install` for you. After that, you can run all the commands you want.
+
 ## 🛠 Building
 
 * `npm install` — Installs all dependencies.
@@ -54,9 +58,6 @@
 * `npm run build` — Deletes existing build files & freshly bundles JavaScript code.
 * `npm run preview` — Previews the production bundles and uses production API.
 * `npm run lint` — Lints and formats both frontend and API code.
-
-For a faster and easier process, you can use the [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/devstrons/hello-world) service and run all the commands there.</br>
-Gitpod will automatically run `npm install` for you. After that, you can run all the commands you want.
 
 ## 📰 License
 
