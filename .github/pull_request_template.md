@@ -10,8 +10,11 @@ This PR fixes #
 
 - [ ] Yes, I am a Member of **DEVSTRONS'**
 
+**Discord id** (eg: DEVSTRONS'#0238):
+<!-- Enter your Discord's ID -->
 
-<!-- THANK YOU FOR CONTRIBUTING TO DEVSTRONS' PROJECTS!
+
+<!-- THANK YOU FOR CONTRIBUTING AT DEVSTRONS' PROJECTS!
  
 By following the community's contribution conventions upfront, the review process will 
 be accelerated and your PR merged more quickly. -->

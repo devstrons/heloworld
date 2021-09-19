@@ -20,28 +20,28 @@
 
 1. Create a markdown file in the `lang` folder with the name of the language you want to add (e.g.: `java.md`).
 2. Start with the below template and fill the appropriate fields with the required information.
-<pre>
-    ---
-    lang: Java
-    syntax: java
-    title: Java is a statically typed JVM based programming language.
-    author: devstrons
-    ---
+````markdown
+---
+lang: Java
+syntax: java
+title: Java is a statically typed JVM based programming language.
+author: devstrons
+---
 
-    ```java
-    public class HelloWorld {
-        public static void main(String[] args) {
-            System.out.println("Hello, World!"); 
-        }
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
     }
-    ```
+}
+```
 
-    ## What is Java?
-    ## Why use Java?
-    ## Setting up Java development environment
-    ## Some Cool projects in Java
-    ## Conclusion
-</pre>
+## What is Java?
+## Why to use Java?
+## Setting up Java development environment
+## Some cool projects in Java
+## Conclusion
+````
 
 4. Submit a pull request with the title **`Adding [language] language`**
 5. **That's it!** ✨ Now your pull request will be merged as soon as possible.
@@ -54,7 +54,7 @@ Gitpod will automatically run `npm install` for you. After that, you can run all
 
 * `npm install` — Installs all dependencies.
 * `npm run clean` — Cleans the generated artifacts by Vite.
-* `npm run dev` — Starts Vercel serverless functions & Vite at the same time.
+* `npm run dev` — Starts the development server and Vite at the same time.
 * `npm run build` — Deletes existing build files & freshly bundles JavaScript code.
 * `npm run preview` — Previews the production bundles and uses production API.
 * `npm run lint` — Lints and formats both frontend and API code.
