@@ -61,7 +61,7 @@ Gitpod will automatically run `npm install` for you. After that, you can run all
 
 ## 📰 License
 
-> The **hello world** project is released under the [MIT license](https://github.com/devstrons/hello-world/blob/main/LICENSE.md). <br> Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
+> The **hello world** project is released under the [MIT license](https://github.com/devstrons/hello-world/blob/main/LICENSE). <br> Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
 <hr>
 
 > **YouTube** <a href="https://www.youtube.com/channel/UCG7JT7yqut81fqFsVBX6oMg" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
