@@ -57,8 +57,8 @@ sudo pacman -Syu bash
 
 ## Some Cool projects in bash
 Here is a non-exhaustive list of cool projects made with bash:
-[todo.sh](https://github.com/todotxt/todo.txt-cli) a simple todo tracker
-[bocker](https://github.com/p8952/bocker) Docker written in 100 lines of bash
-[mkdkr](https://github.com/rosineygp/mkdkr) mkdkr = Makefile + Docker 
+[todo.sh](https://github.com/todotxt/todo.txt-cli) a simple todo tracker  
+[bocker](https://github.com/p8952/bocker) Docker written in 100 lines of bash  
+[mkdkr](https://github.com/rosineygp/mkdkr) mkdkr = Makefile + Docker  
 ## Conclusion  
 In the end bash is an excellent tool for getting mundane, repetitive tasks, long running tasks with ease. Even after the introduction of orchestration and CI/CD tooling like kubernetes, Bash still exists. Giving a clue to how useful is the old but gold tool 
