@@ -14,11 +14,23 @@ int main()
 }
 ```
 
-## What is C?
+## ❓ What is C?
 
 C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C programming is considered as the base for other programming languages, that is why it is known as mother language. C language is a system programming language because it can be used to do low-level programming (for example driver and kernel). It is generally used to create hardware devices, OS, drivers, kernels, etc. For example, Linux kernel is written in C. It supports the feature of both low-level and high-level languages.
+<br><br>
 
-## Why one should use C?
+## 🖱️  Application of C
+
+-   Operating Systems &nbsp; &nbsp;(UNIX, Linux, Microsoft Windows)
+-   Embedded Systems &nbsp; &nbsp;(Firmwares, Drivers)
+-   GUI &nbsp; &nbsp;(Adobe Photoshop, Adobe Premiere, Illustrator)
+-   New Programming Platforms &nbsp; &nbsp;(C++, MATLAB, Mathematica)
+-   Compiler Design &nbsp; &nbsp;(Dev-C, Clang C, MINGW, and Apple C)
+-   DataBase Server &nbsp; &nbsp;(MySQL)
+-   Gaming and Animation
+<br><br>
+
+## 🤔 Why one should use C?
 
 -   Easy to learn
 -   Structured language
@@ -27,21 +39,22 @@ C programming is a general-purpose, procedural, imperative computer programming 
 -   It can be compiled on a variety of computer platforms
 
 C programming language has fewer libraries in comparison with other high-level languages. So, learning C programming also clears programming concepts to a great extent as you have to write lot of things from scratch. You will not be dependent on the programming language entirely for implementing some basic operations and implementing them on your own will also help to build up your analytical skills. C is extensively used in Embedded Programming. Embedded Programming is also referred to as micro-controller programming, where C program is used to control micro-controllers. Microcontrollers and embedded programming is widely used in auto-motives, Robotics, Hardwares etc.
+<br><br>
 
-## Setting up C environment locally
+## ⚙️ Setting up C environment locally
 
 **Step 1:**
 
 You have to download a text editor or an IDE to type your code. Examples include Notepad++,Sublime,vim. An integrated development environment or an IDE is a software application that provides comprehensive facilities to computer programmers for software development. Examples include Visual Studio Code, CLion.
 
--   Sublime - Navigate to [https://www.sublimetext.com/3](https://www.sublimetext.com/3) to download the latest stable version of Sublime according to your OS (Windows/Linux/OSX).
--   Visual Studio Code - Navigate to [https://code.visualstudio.com/download](https://code.visualstudio.com/download) to download the latest stable version of Sublime according to your OS (Windows/Linux/OSX).
+-   **Sublime** - Navigate to [https://www.sublimetext.com/3](https://www.sublimetext.com/3) to download the latest stable version of Sublime according to your OS (Windows/Linux/OSX).
+-   **Visual Studio Code** - Navigate to [https://code.visualstudio.com/download](https://code.visualstudio.com/download) to download the latest stable version of Sublime according to your OS (Windows/Linux/OSX).
 
 **Step 2:**
 
 Install the Compiler according to your OS
 
-#### Linux
+## 🐧 *Linux*
 
 If you are using Linux , then check whether GCC is installed on your system by entering the following command from the command line - `gcc --version`
 
@@ -61,7 +74,7 @@ sudo apt install gcc
 sudo apt install build-essential
 ```
 
-#### Windows
+## 🪟 *Windows*
 
 Get the latest version of Mingw-w64 via [MSYS2](https://www.msys2.org/), which provides up-to-date native builds of GCC, Mingw-w64, and other helpful C++ tools and libraries. Then follow the instructions on the [MSYS2](https://www.msys2.org/) website to install Mingw-w64.
 
@@ -81,12 +94,14 @@ To check that your Mingw-w64 tools are correctly installed and available, open a
 -   `gdb --version`
 
 If you don't see the expected output or g++ or gdb is not a recognized command, make sure your PATH entry matches the Mingw-w64 binary location where the compilers are located.
+<br><br>
 
-#### Mac OS
+## 🍎 *Mac OS*
 
 Navigate to [https://brew.sh/](https://brew.sh/) and install Homebrew package manager on your system. After installing Homebrew, you can use the command `brew install gcc` to install gcc compiler.
+<br><br>
 
-**Writing your first hello world program in C:**
+## 👨‍💻 **Writing your first hello world program in C:**
 
 Create a new folder. Inside the new folder, right click and create a new file 'helloworld.c'. Write the below code in your new file.
 
@@ -101,24 +116,26 @@ int main()
 
 Change the working directory to where you have your C program. You can do that by using the command ‘cd’, which changes the directory. We need to pass the name of the directory in which the program is stored.
 
-Example: `cd Desktop`
+### *Example:* `cd Desktop`
 
 The next step is to compile the program. To do this we need to use the command gcc followed by the name of the program we are going to execute. In our case, we will use 'helloworld.c'. After this, an executable file will be created in the directory that your c file exists in with a '.exe' extension.
 
 In the next step, we can run the program. This is done by simply using the command `./<executable file>` in the terminal . On giving this we will get an output. Here, our helloworld code is executed and we got output for this code.
 
-Output - `Hello World!`
+### *Output -* `Hello World!`
 
-Congratulations! You have successfully setup the C environment.
+ 🎉 Congratulations! You have successfully setup the C environment.
+ <br><br>
 
 If you’re looking for some projects in C for contribution, checkout the below projects:
 
 -   [Project neovim](https://github.com/neovim/neovim)
 -   [Project TDengine](https://github.com/taosdata/TDengine)
 -   [Top C Open Source Projects](https://github.com/trending/c)
+<br><br>
 
-## Conclusion
+## ✨ Conclusion
 
 C is an excellent language for beginners to learn. C helps to understand the internal architecture of a computer, how computer stores and retrieves information. It can be used to develop software like operating systems, databases, compilers, and so on. It is faster than most programming languages like Java, Python, etc. After learning C it becomes easy to learn other languages.
-
-Congratulations on making it till the end!
+<br><br>
+### 🤗 Congratulations on making it till the end!
