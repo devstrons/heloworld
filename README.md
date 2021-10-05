@@ -39,6 +39,7 @@ public class HelloWorld {
 ## What is Java?
 ## Why to use Java?
 ## Setting up Java development environment
+## Popular Java IDEs/Editors
 ## Some cool projects in Java
 ## Conclusion
 ````
