@@ -21,12 +21,12 @@ C programming is a general-purpose, procedural, imperative computer programming 
 
 ## 🖱️ Application of C
 
--   Operating Systems &nbsp; &nbsp;(UNIX, Linux, Microsoft Windows)
--   Embedded Systems &nbsp; &nbsp;(Firmwares, Drivers)
--   GUI &nbsp; &nbsp;(Adobe Photoshop, Adobe Premiere, Illustrator)
--   New Programming Platforms &nbsp; &nbsp;(C++, MATLAB, Mathematica)
--   Compiler Design &nbsp; &nbsp;(Dev-C, Clang C, MINGW, and Apple C)
--   DataBase Server &nbsp; &nbsp;(MySQL)
+-   Operating Systems (UNIX, Linux, Microsoft Windows)
+-   Embedded Systems (Firmwares, Drivers)
+-   GUI (Adobe Photoshop, Adobe Premiere, Illustrator)
+-   New Programming Platforms (C++, MATLAB, Mathematica)
+-   Compiler Design (Dev-C, Clang C, MINGW, and Apple C)
+-   DataBase Server (MySQL)
 -   Gaming and Animation
 <br><br>
 
