@@ -19,7 +19,7 @@ int main()
 C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C programming is considered as the base for other programming languages, that is why it is known as mother language. C language is a system programming language because it can be used to do low-level programming (for example driver and kernel). It is generally used to create hardware devices, OS, drivers, kernels, etc. For example, Linux kernel is written in C. It supports the feature of both low-level and high-level languages.
 <br><br>
 
-## 🖱️  Application of C
+## 🖱️ Application of C
 
 -   Operating Systems &nbsp; &nbsp;(UNIX, Linux, Microsoft Windows)
 -   Embedded Systems &nbsp; &nbsp;(Firmwares, Drivers)
