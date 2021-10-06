@@ -74,7 +74,7 @@ sudo apt install gcc
 sudo apt install build-essential
 ```
 
-## 🪟 *Windows*
+## 💻 **Windows**
 
 Get the latest version of Mingw-w64 via [MSYS2](https://www.msys2.org/), which provides up-to-date native builds of GCC, Mingw-w64, and other helpful C++ tools and libraries. Then follow the instructions on the [MSYS2](https://www.msys2.org/) website to install Mingw-w64.
 
