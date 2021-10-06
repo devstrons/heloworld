@@ -124,7 +124,7 @@ In the next step, we can run the program. This is done by simply using the comma
 
 ### *Output -* `Hello World!`
 
- 🎉 Congratulations! You have successfully setup the C environment.
+🎉 Congratulations! You have successfully setup the C environment.
  <br><br>
 
 If you’re looking for some projects in C for contribution, checkout the below projects:
