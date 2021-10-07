@@ -134,8 +134,9 @@ If you’re looking for some projects in C for contribution, checkout the below 
 - [Top C Open Source Projects](https://github.com/trending/c)
 <br><br>
 
-## ✨ Conclusion
+## 🤗 Conclusion
 
 C is an excellent language for beginners to learn. C helps to understand the internal architecture of a computer, how computer stores and retrieves information. It can be used to develop software like operating systems, databases, compilers, and so on. It is faster than most programming languages like Java, Python, etc. After learning C it becomes easy to learn other languages.
 <br><br>
-### 🤗 Congratulations on making it till the end!
+
+Congratulations on making it till the end! ✨
