@@ -32,11 +32,11 @@ C programming is a general-purpose, procedural, imperative computer programming 
 
 ## 🤔 Why one should use C?
 
--   Easy to learn
--   Structured language
--   It produces efficient programs
--   It can handle low-level activities
--   It can be compiled on a variety of computer platforms
+- Easy to learn
+- Structured language
+- It produces efficient programs
+- It can handle low-level activities
+- It can be compiled on a variety of computer platforms
 
 C programming language has fewer libraries in comparison with other high-level languages. So, learning C programming also clears programming concepts to a great extent as you have to write lot of things from scratch. You will not be dependent on the programming language entirely for implementing some basic operations and implementing them on your own will also help to build up your analytical skills. C is extensively used in Embedded Programming. Embedded Programming is also referred to as micro-controller programming, where C program is used to control micro-controllers. Microcontrollers and embedded programming is widely used in auto-motives, Robotics, Hardwares etc.
 <br><br>
@@ -47,8 +47,8 @@ C programming language has fewer libraries in comparison with other high-level l
 
 You have to download a text editor or an IDE to type your code. Examples include Notepad++,Sublime,vim. An integrated development environment or an IDE is a software application that provides comprehensive facilities to computer programmers for software development. Examples include Visual Studio Code, CLion.
 
--   **Sublime** - Navigate to [https://www.sublimetext.com/3](https://www.sublimetext.com/3) to download the latest stable version of Sublime according to your OS (Windows/Linux/OSX).
--   **Visual Studio Code** - Navigate to [https://code.visualstudio.com/download](https://code.visualstudio.com/download) to download the latest stable version of Sublime according to your OS (Windows/Linux/OSX).
+- **Sublime** - Navigate to [https://www.sublimetext.com/3](https://www.sublimetext.com/3) to download the latest stable version of Sublime according to your OS (Windows/Linux/OSX).
+- **Visual Studio Code** - Navigate to [https://code.visualstudio.com/download](https://code.visualstudio.com/download) to download the latest stable version of Sublime according to your OS (Windows/Linux/OSX).
 
 **Step 2:**
 
@@ -80,18 +80,18 @@ Get the latest version of Mingw-w64 via [MSYS2](https://www.msys2.org/), which p
 
 Add the path to your Mingw-w64 `bin` folder to the Windows `PATH` environment variable by using the following steps:
 
--   In the Windows search bar, type 'settings' to open your Windows Settings.
--   Search for Edit environment variables for your account.
--   Choose the Path variable and then select Edit.
--   Select New and add the Mingw-w64 destination folder path to the system path. The exact path depends on which version of Mingw-w64 you have installed and where you installed it. If you used the settings above to install Mingw-w64, then add this to the path: C:\msys64\mingw64\bin.
--   Select OK to save the updated PATH. You will need to reopen any console windows for the new PATH location to be available
+- In the Windows search bar, type 'settings' to open your Windows Settings.
+- Search for Edit environment variables for your account.
+- Choose the Path variable and then select Edit.
+- Select New and add the Mingw-w64 destination folder path to the system path. The exact path depends on which version of Mingw-w64 you have installed and where you installed it. If you used the settings above to install Mingw-w64, then add this to the path: C:\msys64\mingw64\bin.
+- Select OK to save the updated PATH. You will need to reopen any console windows for the new PATH location to be available
 
 **Check your MinGW installation**
 
 To check that your Mingw-w64 tools are correctly installed and available, open a new Command Prompt and type:
 
--   `g++ --version`
--   `gdb --version`
+- `g++ --version`
+- `gdb --version`
 
 If you don't see the expected output or g++ or gdb is not a recognized command, make sure your PATH entry matches the Mingw-w64 binary location where the compilers are located.
 <br><br>
@@ -129,9 +129,9 @@ In the next step, we can run the program. This is done by simply using the comma
 
 If you’re looking for some projects in C for contribution, checkout the below projects:
 
--   [Project neovim](https://github.com/neovim/neovim)
--   [Project TDengine](https://github.com/taosdata/TDengine)
--   [Top C Open Source Projects](https://github.com/trending/c)
+- [Project neovim](https://github.com/neovim/neovim)
+- [Project TDengine](https://github.com/taosdata/TDengine)
+- [Top C Open Source Projects](https://github.com/trending/c)
 <br><br>
 
 ## ✨ Conclusion
