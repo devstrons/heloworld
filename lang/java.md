@@ -100,5 +100,6 @@ libraries, stop cascading failure and enable resilience in complex distributed s
 
 - [greenDAO](https://github.com/greenrobot/greenDAO): greenDAO is a light & fast ORM solution for Android (Java) that maps objects to SQLite databases.
 
+<br />
 
 **Thanks for Reading!** ✨
