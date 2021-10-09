@@ -76,9 +76,9 @@ you use bash as your shell, then you would add the following line to the end of 
 
 To write your Java programs, you will need a text editor, you can consider one of the following:
 
-- IntelliJ IDEA: An IDE written in Java for developing computer software is open source and can be downloaded from [here](https://www.jetbrains.com/idea).
-- Netbeans: A Java IDE that is open-source and free which can be downloaded from [here](https://www.netbeans.org/index.html).
-- Eclipse: A Java IDE developed by the eclipse open-source community and can be downloaded from [here](https://www.eclipse.org).
+- **IntelliJ IDEA:** An IDE written in Java for developing computer software is open source and can be downloaded from [here](https://www.jetbrains.com/idea).
+- **Netbeans:** A Java IDE that is open-source and free which can be downloaded from [here](https://www.netbeans.org/index.html).
+- **Eclipse:** A Java IDE developed by the eclipse open-source community and can be downloaded from [here](https://www.eclipse.org).
 
 
 ## 🎉 Some cool projects in Java
