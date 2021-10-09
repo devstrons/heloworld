@@ -35,9 +35,16 @@ Like:
   
 I have a function made with bash which lets me search and play youtube videos in vlc media player!
 
-## 📝 Things needed to write Bash
+## 📝 Things needed to get Bashing
 
-You can use a text editor to write Bash scripts
+You can use any text editor to write Bash scripts.  
+
+You should know your way around these programs:  
+    - vim, nano (editing files)
+    - grep, find (find files, and text in files)
+    - cat, echo (printing files and text to screen)
+
+I recommend these programs because when you are writing bash scripts you will need to use these often, and you might not have access to gui programs like vscode. Having a working knowledge of above tools is a plus in it self.
 
 ## 🛠️ Setting up Bash development environment
 
@@ -77,7 +84,7 @@ Run these commands in PowerShell:
     ## Press 'Get' 
 
     ![Ubuntu page](https://docs.microsoft.com/en-us/windows/wsl/media/ubuntustore.png)  
-    Linux 🐧/macos 🍎/bsd  🚩 :  
+    Linux 🐧/macOs 🍎/bsd  🚩 :  
     It is already there in every system, if not, install with following commands.
 
 6. Set up password  
@@ -103,7 +110,7 @@ sudo apt install bash
 ```md
 sudo pacman -Syu bash
 ```
-
+write
 ## 🏃‍♂️ Bash scripts  
 
 Put this script in a file named `test.sh`  
@@ -137,5 +144,12 @@ Here is a non-exhaustive list of cool projects made with Bash:
 ## 📑 Conclusion  
 
 In the end, Bash is an excellent tool for getting mundane, repetitive tasks, and long-running tasks with ease. Even after the introduction of orchestration and CI/CD tooling like Kubernetes, Bash still exists. Giving a clue to how useful is the old but gold tool.
+
+## Resources
+
+- [To learn about various commands](https://linuxjourney.com/)
+- [Basic syntax and concepts](https://guide.bash.academy/)
+- [Quick lookup page](https://learnxinyminutes.com/docs/bash/)
+- [A cheat sheet](https://devhints.io/bash)
 
 **Thanks for Reading!** ✨
