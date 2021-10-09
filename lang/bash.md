@@ -1,7 +1,7 @@
 ---
 lang: Bash
 syntax: bash
-title: De-facto shell lang
+title: De-facto shell language
 author: tusqasi
 ---
 
@@ -55,13 +55,13 @@ Run these commands in PowerShell:
 
 1. Enable the Windows Subsystem for Linux  
 
-    ```md
+    ```powershell
     dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart  
     ```
 
 2. Enable Virtual Machine feature  
 
-    ```md
+    ```powershell
     dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart  
     ```
 
@@ -71,19 +71,19 @@ Run these commands in PowerShell:
 
 4. Set WSL 2 as your default version  
 
-    ```md
+    ```powershell
     wsl --set-default-version 2  
     ```
 
 5. Install Ubuntu from microsoft store  
 
-    [Ubuntu](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q)  
+    Get [Ubuntu](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q).
 
-    ![Microsoft Store](https://docs.microsoft.com/en-us/windows/wsl/media/store.png)  
+    ![Microsoft Store](https://imgur.com/a/A2hsX2o)  
 
     ## Press 'Get' 
 
-    ![Ubuntu page](https://docs.microsoft.com/en-us/windows/wsl/media/ubuntustore.png)  
+    ![Ubuntu page](https://imgur.com/a/3xYA6CG)  
     Linux 🐧/macOs 🍎/bsd  🚩 :  
     It is already there in every system, if not, install with following commands.
 
@@ -95,19 +95,19 @@ Run these commands in PowerShell:
 
 🍎 macOS
 
-```md
+```sh
 brew install bash
 ```
 
 🐧 Debian/Ubuntu
 
-```md
+```sh
 sudo apt install bash
 ```
 
 🐧 Arch 
 
-```md
+```sh
 sudo pacman -Syu bash
 ```
 write
@@ -115,20 +115,20 @@ write
 
 Put this script in a file named `test.sh`  
 
-```md
+```sh
 #!/bin/bash
 echo 'Hello World!'
 ```
 
 And make it executable  
 
-```md
+```sh
 chmod +x ./test.sh
 ```
 
 Now run that file with
 
-```md
+```sh
 $ ./test.sh
 Hello World!
 ```
@@ -137,9 +137,9 @@ Hello World!
 
 Here is a non-exhaustive list of cool projects made with Bash:
 
-- [todo.sh](https://github.com/todotxt/todo.txt-cli) 📒 a simple todo tracker  
-- [bocker](https://github.com/p8952/bocker) 🐋 Docker written in 100 lines of bash  
-- [mkdkr](https://github.com/rosineygp/mkdkr) 🐐 mkdkr = Makefile + Docker  
+- 📒 [todo.sh](https://github.com/todotxt/todo.txt-cli)  a simple todo tracker  
+- 🐋 [bocker](https://github.com/p8952/bocker)  Docker written in 100 lines of bash  
+- 🐐 [mkdkr](https://github.com/rosineygp/mkdkr)  mkdkr = Makefile + Docker  
 
 ## 📑 Conclusion  
 
