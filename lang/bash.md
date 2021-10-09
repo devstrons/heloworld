@@ -74,7 +74,7 @@ Run these commands in PowerShell:
 
     ![Microsoft Store](https://docs.microsoft.com/en-us/windows/wsl/media/store.png)  
 
-    <h1>Press 'Get'</h1>  
+    ## Press 'Get' 
 
     ![Ubuntu page](https://docs.microsoft.com/en-us/windows/wsl/media/ubuntustore.png)  
     Linux 🐧/macos 🍎/bsd  🚩 :  
@@ -124,7 +124,6 @@ Now run that file with
 ```md
 $ ./test.sh
 Hello World!
-
 ```
 
 ## 😎 Some Cool projects in bash
