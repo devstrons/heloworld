@@ -29,12 +29,12 @@ For setting up JavaScript development environment, we must have atleast two thin
 - Opera
 
 #### Following are the JavaScript editors:
-- Visual Studio Code
-- Eclipse
-- Notepad++
-- Atom
-- Code Lobster
-- WebStorm
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Eclipse](https://www.eclipse.org/downloads/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [Atom](https://atom.io/)
+- [Code Lobster](https://www.codelobster.com/download.html)
+- [WebStorm](https://www.jetbrains.com/webstorm/download)
 
 Step 1️: Install Node and npm for package management
 Visit the website [NodeJs](https://nodejs.org/en/download) and install NodeJs as per your PC specifications.
@@ -69,38 +69,39 @@ The best way to learn a new programming language is to build projects.
 JavaScript Projects:
 
 #### 🌟Beginner Level:  
-- Create a FAQ page
-- Create a restaurant menu page 
-- Create a countdown clock
-- Create your own Lorem Ipsum
-- Create Quiz 
-- Create a memory card colors Game
-- Create JavaScript Calculator
-- Create Hangman Game
+- [Create a FAQ page](https://sweetcode.io/how-to-build-an-faq-page-with-html-and-javascript/)
+- [Create a restaurant menu page](https://business.tutsplus.com/articles/best-restaurant-website-templates--cms-30411)
+- [Create a countdown clock](https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/)
+- [Create your own Lorem Ipsum](https://nabendu82.medium.com/create-a-lorem-ipsum-generator-in-javascript-150825b59c4)
+- [Create Quiz](https://simplestepscode.com/javascript-quiz-tutorial/)
+- [Create a memory card colors Game](https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript)
+- [Create JavaScript Calculator](https://www.javatpoint.com/javascript-calculator)
+- [Create Hangman Game](https://codepen.io/cathydutton/pen/ldazc)
 
 #### 🌟Intermediate Level: 
-- Portfolio Website
-- Music App
-- Weather App using Google Maps API
-- File Converter
-- Build a Tic-Tac-Toe
-- Create rock-paper-scissors game
-- E-commerce Shopping Cart
-- Build Fitness Website
+- [Portfolio Website](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/)
+- [Music App](https://www.geeksforgeeks.org/create-a-music-player-using-javascript/)
+- [Weather App using Google Maps API](https://www.geeksforgeeks.org/weather-app-using-vanilla-javascript/)
+- [Conversion Tool](https://code-projects.org/conversion-tool-in-javascript-with-source-code/)
+- [Build a Tic-Tac-Toe](https://codepen.io/tag/tic-tac-toe)
+- [Create rock-paper-scissors game](https://codepen.io/nevan/pen/zChrG)
+- [E-commerce Shopping Cart](https://speckyboy.com/free-shopping-cart-css-javascript/)
+- [Build Fitness Website](https://github.com/akashpandey2193/fitness-website)
 
 #### 🌟Advanced Level:
-- Instagram Clone with JavaScript
-- Stock-Trading App with JavaScript
-- Analytics App with JavaScript
-- Movie App with JavaScript
-- 2048 Game
-- WhiteBoard App
-- Netflix Clone
+Since you are familiar with javascript and assuming you've made above mentioned projects, then you can made some really cool projects
+- [Instagram Clone](https://github.com/leocosta1/instagram-clone)
+- [Stock-Trading App](https://github.com/CLClark/fcc-stock-trading-app)
+- [Analytics App](https://developers.google.com/analytics/devguides/config/mgmt/v3/quickstart/web-js)
+- [Movie App](https://code-projects.org/movie-searching-site-in-javascript-with-source-code/)
+- [2048 Game](https://freefrontend.com/javascript-2048-games/)
+- [WhiteBoard App](https://codepen.io/tag/whiteboard)
+- [Netflix Clone](https://codepen.io/tag/netflix)
 
 ## 🖤 Conclusion
 We’ve come a long way, from getting to know about JavaScript to an overview of JavaScript Projects. Start new, start fresh! Keep the following things in mind: 
 Use a text editor to write and save JavaScript and HTML files. 
 Organize the files for a project using folders and appropriate filenames. 
-Find out more and get help at the [Developer Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Stack Overflow](stackoverflow.com)
-Make the most of the resources on the book’s website. 
+Find out more and get help at the [Developer Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Stack Overflow](https://stackoverflow.com/questions/tagged/javascript)
+Make the most of the resources on [JS Documentation](https://www.javascript.com/), [FreeCodeCamp](https://www.freecodecamp.org/news/what-is-javascript/), [W3Schools](https://www.w3schools.com/js/) . 
 Practice, practice, practice. Be curious, adventurous, resilient, and patient. Good luck on your adventures!
