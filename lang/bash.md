@@ -42,11 +42,11 @@ You should know your way around these programs:
 - grep, find (find files, and text in files)  
 - cat, echo (printing files and text to screen)  
 
-I recommend learning these programs because when you are writing Bash scripts you will need to use these often, and you might not have access to GUI programs like VSCode. Having a working knowledge of the above tools is a plus in itself.  
+We always recommend learning these programs, because when you're writing Bash scripts you will need to use these often, and you might not have access to GUI programs like VSCode. Having a working knowledge of the above tools is a plus in itself.  
 
 ## 🛠️ Setting up Bash development environment
 
-Windows 🪟:  
+### 🖥️ Windows:  
 This is an official [guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to go you started with `wsl`: Windows subsystem for Linux
 
 Follow along for a overview of the process
@@ -86,19 +86,19 @@ Run these commands in PowerShell:
 
     You will then need to create a user account and password for your new Linux distribution.
 
-🍎 macOS
+### 🍎 macOS
 
 ```sh
 brew install bash
 ```
 
-🐧 Debian/Ubuntu
+### 🐧 Debian/Ubuntu
 
 ```sh
 sudo apt install bash
 ```
 
-🐧 Arch 
+### 🐧 Arch 
 
 ```sh
 sudo pacman -Syu bash
