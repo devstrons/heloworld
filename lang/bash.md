@@ -134,7 +134,7 @@ Here is a non-exhaustive list of cool projects made with bash:
 - [**mkdkr**](https://github.com/rosineygp/mkdkr)  mkdkr = Makefile + Docker  
 - [**nvm**](https://github.com/nvm-sh/nvm) A version manager for node.js
 - [**neofetch**](https://github.com/dylanaraps/neofetch) A command-line system information tool written in bash
-- [**bash-it](https://github.com/Bash-it/bash-it) A collection of community bash commands and scripts for bash
+- [**bash-it**](https://github.com/Bash-it/bash-it) A collection of community bash commands and scripts for bash
 
 ## 📑 Conclusion  
 
