@@ -22,8 +22,10 @@ for you.
 It is present in almost all linux servers and computer, and macos computers.  
 It can be accessed in windows by using git-bash or by installing a sub-system for windows, commonly called as "Windows subsystem for Linux"   
 
-You are not limited to doing devops operations with bash. You can automate things on your computer!
-Like:  
+You are not limited to doing DevOps operations with bash.\
+You can automate things on your computer!
+
+You can do some of the following stuff:
 
 - Create a backup and upload to a off-site backup location 
 - Customize application behavior.    
@@ -34,17 +36,18 @@ Like:
 
 You can use any text editor to write bash scripts.    
 
-You should know your way around these programs:  
+You should know your way around these programs:
+
 - vim, nano (editing files)  
 - grep, find (find files, and text in files)  
 - cat, echo (printing files and text to screen)  
 
-I recommend learning these programs because when you are writing bash scripts you will need to use these often, and you might not have access to gui programs like vscode. Having a working knowledge of above tools is a plus in it self.  
+I recommend learning these programs because when you are writing Bash scripts you will need to use these often, and you might not have access to GUI programs like VSCode. Having a working knowledge of the above tools is a plus in itself.  
 
 ## 🛠️ Setting up Bash development environment
 
 Windows 🪟:  
-This an official [guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to go you started with `wsl`, Windows subsystem for Linux
+This is an official [guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to go you started with `wsl`: Windows subsystem for Linux
 
 Follow along for a overview of the process
 
@@ -139,7 +142,7 @@ In the end, bash is an excellent tool for getting mundane, repetitive tasks, and
 
 ## Resources
 
-- [To learn about various commands](https://linuxjourney.com/)
+- [Learn about various commands](https://linuxjourney.com/)
 - [Basic syntax and concepts](https://guide.bash.academy/)
 - [Quick lookup page](https://learnxinyminutes.com/docs/bash/)
 - [A cheat sheet](https://devhints.io/bash)
