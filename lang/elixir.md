@@ -11,10 +11,10 @@ IO.puts("Hello, World!")
 
 ## 🤔 What is Elixir?
 
-Elixir is a functional, dynamically typed, concurrent general purpose programming language created by
-*José Valim*. It is built on the top of Erlang virtual machine which is known for running low latency,
-distributed and fault-tolerant systems. Elixir compiles down to Erlang's bytecode. Since its release in
-2011, it has become one of the most loved languages, because Elixir applications are scalable , very reliable,
+Elixir is a functional, dynamically typed, concurrent general-purpose programming language created by
+*José Valim*. It is built on the top of an Erlang virtual machine which is known for running low latency,
+distributed, and fault-tolerant systems. Elixir compiles down to Erlang's bytecode. Since its release in
+2011, it has become one of the most loved languages, because Elixir applications are scalable, very reliable,
 and syntax is also nice.
 
 ## 🤷‍♂️ Why to use Elixir?
