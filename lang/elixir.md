@@ -110,6 +110,7 @@ foo@bar~$ docker run -it --rm elixir bash
 * [**Papercups**](https://papercups.io/)
 * [**Bamboo**](https://github.com/thoughtbot/bamboo)
 * [**Teslamate**](https://github.com/adriankumpf/teslamate)
+* [TheAlgorithms](https://github.com/TheAlgorithms/Elixir)
 
 ## 🏢 Companies using Elixir
 
