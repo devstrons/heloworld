@@ -25,7 +25,7 @@ and syntax is also nice.
 
 * **Functional** - Functional programming promotes a coding style that helps developers write code that is short, concise, and maintainable. In Elixir immutable data structures help concurrency quite a lot, and pattern matching is great for writing declarative code.
 
-* **Dynamic Typing** - Dynamic typing means that types are checked in run-time, not during compilation. This increases the development speed for simple web and mobile applications.In Elixir, static types can be introduced in Elixir through typespecs.
+* **Dynamic Typing** - Dynamic typing means that types are checked in run-time, not during compilation. This increases the development speed for simple web and mobile applications. In Elixir, static types can be introduced in Elixir through typespecs.
 
 ## ⚙ Setting up Elixir development environment
 
@@ -127,4 +127,4 @@ Instant messaging app for video, voice calls and text chats chose Elixir to buil
 
 If want to build a robust, fault-tolerant scalable project with a small team then Elixir is the best weapon for you.
 
-## 🤗 Thnanks For Reading
+## 🤗 Thanks For Reading
