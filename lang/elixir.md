@@ -83,7 +83,7 @@ foo@bar~$ yum install elixir
 foo@bar~$ cinst elixir
 ```
 
-Or you can donwload the installer from [here](https://github.com/elixir-lang/elixir-windows-setup/releases/download/v2.1/elixir-websetup.exe) and just simply follow the instruction.
+Or you can download the installer from [here](https://github.com/elixir-lang/elixir-windows-setup/releases/download/v2.1/elixir-websetup.exe) and simply follow the instructions.
 
 #### **On Raspberry Pi**
 
