@@ -31,8 +31,10 @@ and syntax is also nice.
 
 ### 🔨 Tools you will need
 
-For setting up an environment for performing Elixir codes, you need a machine with minimum of 2 GB of RAM.\
-You will also need the following softwares:
+For setting up an environment for performing Elixir codes,\
+you need a machine with a minimum of 2 GB of RAM.
+
+You will also need the following software:
 
 * Linux, macOS, or Windows XP/7/8/10 operating system
 * Erlang
