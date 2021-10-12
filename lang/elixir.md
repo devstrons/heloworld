@@ -1,6 +1,6 @@
 ---
-lang | Elixir
-syntax | elixir
+lang: Elixir
+syntax: elixir
 title: Elixir is a dynamic, functional language for building scalable and maintainable applications.
 author: Yashvardhan
 ---
@@ -29,9 +29,9 @@ and syntax is also nice.
 
 ## ⚙ Setting up Elixir development environment
 
-### Tools you will need
+### 🔨 Tools you will need
 
-For setting up environment for performing Elixir codes you need with a minimum of 2 GB of RAM.
+For setting up an environment for performing Elixir codes you need a machine with minimum 2 GB of RAM.
 You will also need the following softwares:
 
 * Linux, macOS, or Windows XP/7/8/10 operating system
@@ -125,6 +125,6 @@ Instant messaging app for video, voice calls and text chats chose Elixir to buil
 
 ## Conclusion
 
-If want to build a robust, fault tolerant scalable project with a small team then elixir is the best waepn for you.
+If want to build a robust, fault-tolerant scalable project with a small team then Elixir is the best weapon for you.
 
 ## 🤗 Thnanks For Reading
