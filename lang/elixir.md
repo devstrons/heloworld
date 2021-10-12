@@ -125,6 +125,6 @@ Instant messaging app for video, voice calls and text chats chose Elixir to buil
 
 ## Conclusion
 
-If want to build a robust, fault-tolerant scalable project with a small team then Elixir is the best weapon for you.
+If want to build a robust, fault-tolerant scalable project with a small team, then Elixir is the best weapon for you.
 
 ## 🤗 Thanks For Reading
