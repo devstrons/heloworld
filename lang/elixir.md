@@ -2,7 +2,7 @@
 lang: Elixir
 syntax: elixir
 title: Elixir is a dynamic, functional language for building scalable and maintainable applications.
-author: Yashvardhan
+author: yashvardhan-verma
 ---
 
 ```elixir
