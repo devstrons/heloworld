@@ -9,7 +9,7 @@ This PR fixes #
 **Notes for Reviewers:**
 <!-- Any note for reviewers, like Bug fixed successfully, or stuck somewhere, or Ready to merge! 🙂 -->
 
-**[Signed commits](https://github.com/DevsTrons/hello-world/blob/master/CONTRIBUTING.md)**
+**[Signed commits](https://github.com/devstrons/hello-world/blob/master/CONTRIBUTING.md)**
 
 - [ ] Yes, I am a Member of **DEVSTRONS'**
 
