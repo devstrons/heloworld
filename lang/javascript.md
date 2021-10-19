@@ -108,4 +108,5 @@ Make the most of the resources on [JS Documentation](https://www.javascript.com/
 Practice, practice, practice. Be curious, adventurous, resilient, and patient. Good luck on your adventures!
 
 <br />
+
 **Thanks for Reading! 💛**
