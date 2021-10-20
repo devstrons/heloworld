@@ -56,7 +56,7 @@ then navigate to that directory
 
 The main file in the myApp folder is Program.cs. By default it's already written to print "Hello World!" to the Console.
 
-### 📎 To use on Windows:
+### 📎 Using it on Windows
 
 1. Download and install the free version of Visual Studio from https://visualstudio.microsoft.com/downloads/
 
