@@ -28,7 +28,7 @@ public class HelloWorld {
 ## 📈 Why to use C#?
 
  - C# is remarkably scalable and easy to maintain.  
- - It's also good for  beginners,  especially beginners with experience in Java or C++ because the code syntax is very similar
+ - It's good for beginners, especially beginners with experience with Java or C++ because the code syntax is very similar
  - It's possible to write applications for desktop, web, mobile, games, and cross-platform with C#. Cool stuff!
  - C# is statically-typed and easy to read, and it's object-oriented, another thing it has in common with Java.
  - C# is an in-demand skill and among the top ten languages used (according to a 2020 StackOverflow study https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved) 🤩💹
@@ -41,8 +41,7 @@ To start building .NET apps, download and install the [.NET SDK (Software Develo
 
 Once you've installed, open a new command prompt and run the following command:
 
-
-     dotnet
+```dotnet```
 
 If you receive a 'dotnet is not recognized as an internal or external command' error, make sure you opened a new command prompt. 
 
