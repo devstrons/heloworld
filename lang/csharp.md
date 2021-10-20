@@ -74,8 +74,9 @@ The main file in the myApp folder is Program.cs. By default it's already written
 
 ## 🆒 Some cool projects in C#
 
-- The Roslyn .NET compiler (https://github.com/dotnet/roslyn)
-- Google's Material Design for C# (https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
+- [The Roslyn .NET compiler](https://github.com/dotnet/roslyn)
+- [Google's Material Design for C#](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
+- [TheAlgorithms/C#](https://github.com/TheAlgorithms/C-Sharp)
 
 ## 🚀 Conclusion
 
