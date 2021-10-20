@@ -35,7 +35,7 @@ public class HelloWorld {
 
 ## 🛠️ Setting up C# development environment
 
-### 💻 To use on Linux or macOS:
+### 💻 To use on Linux or macOS
 
 To start building .NET apps, download and install the .NET SDK (Software Development Kit).
 https://download.visualstudio.microsoft.com/download/pr/8a504918-9508-464d-80c6-4da7f9cc9ac6/f9d6ad00bbd798bafb549101b5b4a4c0/dotnet-sdk-5.0.402-win-x64.exe
