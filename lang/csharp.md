@@ -79,4 +79,4 @@ The main file in the myApp folder is Program.cs. By default it's already written
 
 ## 🚀 Conclusion
 
-C# is a very flexible and beginner-friendly language, and it's used in a multitude of contexts from web to Desktop to mobile gaming. It's not difficult to get started with C#, and it will allow you to create a wide variety of projects and applications. Sky's the limit!
+C# is a very flexible and beginner-friendly language, and it's used in a multitude of contexts from the web to desktop to mobile gaming. It's not difficult to get started with C#, and it will allow you to create a wide variety of projects and applications. Sky's the limit!
