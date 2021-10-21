@@ -3,7 +3,6 @@ lang: C#
 syntax: cs
 title: C# is awesome!
 author: hey-mikey
-
 ---
 
 ```cs
