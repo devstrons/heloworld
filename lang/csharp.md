@@ -1,7 +1,7 @@
 ﻿---
 lang: C Sharp
 syntax: cs
-title: C# is awesome!
+title: C Sharp is awesome!
 author: hey-mikey
 ---
 
