@@ -65,7 +65,7 @@ The main file in the myApp folder is Program.cs. By default it's already written
 
 ## ✏️ Popular C# IDEs/Editors
 
-- VSCode
+- [Visual Studio Code](https://code.visualstudio.com/download)
 - [Visual Studio 2019](https://visualstudio.microsoft.com/downloads)
 - [JetBrains Rider](https://www.jetbrains.com/rider)
 
