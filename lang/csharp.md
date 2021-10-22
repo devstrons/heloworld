@@ -40,6 +40,7 @@ To start building .NET apps, download and install the [.NET SDK (Software Develo
 
 Once you've installed, open a new command prompt and run the following command:
 
+    dotnet
 
 If you receive a 'dotnet is not recognized as an internal or external command' error, make sure you opened a new command prompt. 
 
