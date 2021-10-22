@@ -3,14 +3,14 @@
     <strong>A collection of hello world snippets in multiple programming languages.</strong>
 </p>
 <p align="center">
-    <a href="https://github.com/devstrons/hello-world/graphs/contributors">
-        <img src="https://img.shields.io/github/contributors/devstrons/hello-world?style=flat-square">
+    <a href="https://github.com/devstrons/heloworld.xyz/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/devstrons/heloworld.xyz?style=flat-square">
     </a>
-    <a href="https://github.com/devstrons/hello-world/issues">
-        <img src="https://img.shields.io/github/issues-raw/devstrons/hello-world?label=issues&style=flat-square">
+    <a href="https://github.com/devstrons/heloworld.xyz/issues">
+        <img src="https://img.shields.io/github/issues-raw/devstrons/heloworld.xyz?label=issues&style=flat-square">
     </a>
-    <a href="https://github.com/devstrons/hello-world/commits/main">
-        <img src="https://img.shields.io/github/last-commit/devstrons/hello-world.svg?style=flat-square">
+    <a href="https://github.com/devstrons/heloworld.xyz/commits/main">
+        <img src="https://img.shields.io/github/last-commit/devstrons/heloworld.xyz.svg?style=flat-square">
     </a>
 </p>
 <br>
@@ -48,7 +48,7 @@ public class HelloWorld {
 5. **That's it!** ✨ Now your pull request will be merged as soon as possible.
 
 **Note:** 
-For a faster and easier process, you can use the [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/devstrons/hello-world) service and run all the commands there.</br>
+For a faster and easier process, you can use the [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/devstrons/heloworld.xyz) service and run all the commands there.</br>
 Gitpod will automatically run `npm install` for you. After that, you can run all the commands you want.
 
 ## 🛠 Building
@@ -62,7 +62,7 @@ Gitpod will automatically run `npm install` for you. After that, you can run all
 
 ## 📰 License
 
-> The **hello world** project is released under the [MIT license](https://github.com/devstrons/hello-world/blob/main/LICENSE). <br> Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
+> The **heloworld.xyz** project is released under the [MIT license](https://github.com/devstrons/heloworld.xyz/blob/main/LICENSE). <br> Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
 <hr>
 
 > **YouTube** <a href="https://www.youtube.com/channel/UCG7JT7yqut81fqFsVBX6oMg" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
