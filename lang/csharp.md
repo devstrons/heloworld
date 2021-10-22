@@ -1,7 +1,7 @@
 ﻿---
 lang: C Sharp
 syntax: cs
-title: C Sharp is awesome!
+title: C Sharp can do anything!
 author: hey-mikey
 ---
 
@@ -65,7 +65,7 @@ The main file in the myApp folder is Program.cs. By default it's already written
 
 ## ✏️ Popular C# IDEs/Editors
 
-- VSCode
+- [Visual Studio Code](https://code.visualstudio.com/download)
 - [Visual Studio 2019](https://visualstudio.microsoft.com/downloads)
 - [JetBrains Rider](https://www.jetbrains.com/rider)
 
@@ -78,3 +78,5 @@ The main file in the myApp folder is Program.cs. By default it's already written
 ## 🚀 Conclusion
 
 C# is a very flexible and beginner-friendly language, and it's used in a multitude of contexts from the web to desktop to mobile gaming. It's not difficult to get started with C#, and it will allow you to create a wide variety of projects and applications. Sky's the limit!
+
+Thanks for reading ✨
