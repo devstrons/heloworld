@@ -67,7 +67,7 @@ The main file in the myApp folder is Program.cs. By default it's already written
 
 - VSCode
 - [Visual Studio 2019](https://visualstudio.microsoft.com/downloads)
-- JetBrains Rider
+- [JetBrains Rider](https://www.jetbrains.com/rider)
 
 ## 🆒 Some cool projects in C#
 
