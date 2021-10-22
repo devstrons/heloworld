@@ -17,7 +17,7 @@ public class HelloWorld {
 }
 ```
 
-## ❓ What is C#?
+## 🤔 What is C#?
 
  - C# is a language developed by Microsoft in 2000 to address the growing interest in web applications. It was written by Anders
    Hejlsberg, who also worked on Turbo Pascal and Delphi.  
