@@ -1,5 +1,5 @@
 ﻿---
-lang: C#
+lang: C Sharp
 syntax: cs
 title: C# is awesome!
 author: hey-mikey
