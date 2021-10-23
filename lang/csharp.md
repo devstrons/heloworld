@@ -9,9 +9,6 @@ author: hey-mikey
 public class HelloWorld {
     public static void Main(string[] args) {
         Console.WriteLine("Hello, World!"); 
-        /* this keeps the console open instead of 
-         * printing the line and immediately closing. 
-         */
         Console.ReadLine(); 
     }
 }
