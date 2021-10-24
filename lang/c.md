@@ -1,7 +1,7 @@
 ---
 lang: C
 syntax: c
-title: C language is so cool!
+title: The Legendary System-level Programming Language
 author: shuklaritvik06
 ---
 

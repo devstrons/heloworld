@@ -1,7 +1,7 @@
 ---
 lang: Dart
 syntax: dart
-title: Dart is Sky Language!
+title: Dart is a client-optimized language for fast apps on any platform.
 author: chandan0000
 ---
 
