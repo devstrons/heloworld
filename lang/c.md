@@ -1,7 +1,7 @@
 ---
 lang: C
 syntax: c
-title: The Legendary Systems-level Programming Language
+title: The Legendary System-level Programming Language
 author: shuklaritvik06
 ---
 

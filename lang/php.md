@@ -17,14 +17,14 @@ PHP is the acronym for Hypertext Preprocessor. It is a popular opensource server
 
 ## 🤔 Why to use PHP?
 
-The main feature of PHP which makes me like it more is you need not write complicated scripts like in case of other languages. Few simple lines of code are sufficient to get your work done. It can be used to manage dynamic content, databases, session tracking. You can even build an entire e-commerce site using PHP. It can be integrated with a number of popular databases like [MySQL](https://www.mysql.com), [PostgreSQL](https://www.postgresql.org), [Oracle](https://www.oracle.com/in/index.html), [Sybase](https://www.sap.com/india/acquired-brands/what-is-sybase.html), [Informix](https://www.ibm.com/products/informix), and [Microsoft SQL Server](https://www.microsoft.com/en-ie/sql-server/sql-server-downloads). The MySQL server executes even very complex queries with huge result sets in record-setting time. PHP supports a large number of major protocols such as POP3, IMAP, and LDAP. PHP4 added support for Java and distributed object architectures (COM and CORBA), making n-tier development a possibility for the first time. PHP Mailer library is used to send mails safely and easily.
+The main feature of PHP which makes me like it more is you need not write complicated scripts like in the case of other languages. Few simple lines of code are sufficient to get your work done. It can be used to manage dynamic content, databases, session tracking. You can even build an entire e-commerce site using PHP. It can be integrated with a number of popular databases like [MySQL](https://www.mysql.com), [PostgreSQL](https://www.postgresql.org), [Oracle](https://www.oracle.com/in/index.html), [Sybase](https://www.sap.com/india/acquired-brands/what-is-sybase.html), [Informix](https://www.ibm.com/products/informix), and [Microsoft SQL Server](https://www.microsoft.com/en-ie/sql-server/sql-server-downloads). The MySQL server executes even very complex queries with huge result sets in record-setting time. PHP supports a large number of major protocols such as POP3, IMAP, and LDAP. PHP4 added support for Java and distributed object architectures (COM and CORBA), making n-tier development a possibility for the first time. PHP Mailer library is used to send emails safely and easily.
 
 - Simple and easy to learn
 - Efficient (Cost and performance wise)
 - Secure
 - Flexible
 
- PHP can perform lot of operations like form handling, file operations, database modification and cookie setting. It can be used to encrypt data and restrict users to access specific pages in your website.
+PHP can perform a lot of operations like form handling, file operations, database modification, and cookie setting. It can be used to encrypt data and restrict users to access specific pages on your website.
  
 A PHP framework provides a basic structure for streamlining the development of web apps. We use them because they speed up the development process.
 
