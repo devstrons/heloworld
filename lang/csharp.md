@@ -1,7 +1,7 @@
 ---
 lang: C#
 syntax: cs
-title: Why do Java programmers have to wear glasses? Because they don’t C#.
+title: C# can be used to create almost anything but is particularly strong at building Windows desktop applications and games.
 author: hey-mikey
 ---
 

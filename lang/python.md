@@ -1,7 +1,7 @@
 ---
 lang: Python
 syntax: python
-title: Python is a snake language!
+title: Python is an interpreted high-level general-purpose programming language.
 author: AaquibAli
 ---
 

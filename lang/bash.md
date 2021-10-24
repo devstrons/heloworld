@@ -1,7 +1,7 @@
 ---
 lang: Bash
 syntax: bash
-title: De-facto shell language
+title: Introduction to the Bourne Again Shell | BASH Explained
 author: tusqasi
 ---
 
