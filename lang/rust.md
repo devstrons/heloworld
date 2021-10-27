@@ -23,11 +23,11 @@ Rust had, ever since its inception, the objective of allowing the power of C/C++
 
 ## 🧐 What is Rust currently used for?
 
-Today, Rust's development is [sponsored by Mozilla][https://research.mozilla.org/rust/], being adopted in the development of Firefox, its most known product. Rust is also currently being used by other big corporations like [Dropbox and Cloudfare][https://www.rust-lang.org/], with it's adoption in the development of the Linux kernel being [currently discussed][https://www.zdnet.com/article/rust-in-the-linux-kernel-why-it-matters-and-whats-happening-next/].
+Today, Rust's development is [sponsored by Mozilla][https://research.mozilla.org/rust/], being adopted in the development of Firefox, its most known product. Rust is also currently being used by other big corporations like [Dropbox and Cloudfare][https://www.rust-lang.org/], with its adoption in the development of the Linux kernel being [currently discussed][https://www.zdnet.com/article/rust-in-the-linux-kernel-why-it-matters-and-whats-happening-next/].
 
 ## Starting with Rust development
 
-The best way to install Rust is to use it's management tool `rustup`, which can be installed:
+The best way to install Rust is to use its management tool `rustup`, which can be installed:
 - On Linux, macOS or other Unix-like OS by running `$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh` on the terminal
 - On Windows or other platforms, check [the manual][https://forge.rust-lang.org/infra/other-installation-methods.html]
 
@@ -55,6 +55,6 @@ Now that you have the necessary tools installed, you can get to the language's m
 
 ## ✨ Conclusion 
 
-Rust is a really hot language in the industry right now, so getting a good grasp of it's usage is a great way to advance your career in CompSci or to understand the probable future of systems development!
+Rust is a really hot language in the industry right now, so getting a good grasp of its usage is a great way to advance your career in CompSci or to understand the probable future of systems development!
 
 ## 🤗 Thanks for Reading!
