@@ -28,6 +28,7 @@ Today, Rust's development is [sponsored by Mozilla][https://research.mozilla.org
 ## Starting with Rust development
 
 The best way to install Rust is to use its management tool `rustup`, which can be installed:
+
 - On Linux, macOS or other Unix-like OS by running `$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh` on the terminal
 - On Windows or other platforms, check [the manual][https://forge.rust-lang.org/infra/other-installation-methods.html]
 
