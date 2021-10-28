@@ -15,7 +15,7 @@ fn main() {
  
 Rust, as defined by Steve Nichols in _"The Rust Programming Language"_ is a programming language that balances high-level ergonomics and low-level control, abstracting resource control just enough so you can have control over low-level details but it won't be a hassle.
 
-Been voted "the most loved programming language" by the Stack Overflow Developer Survey every year since 2016, Rust is multi-paradigm, with compilation and package managing achieved by its own set of tools, _rustc_ and _cargo_, respectively.
+It has been voted as "the most loved programming language" by the Stack Overflow Developer Survey every year since 2016, Rust is multi-paradigm, with compilation and package managing achieved by its own set of tools, _rustc_, and _cargo_, respectively.
  
 ## 🤔 Why to use Rust?
 
