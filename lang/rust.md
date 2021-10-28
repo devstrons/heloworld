@@ -37,6 +37,7 @@ The best way to install Rust is to use its management tool `rustup`, which can b
 ### 👋 Writing your first 'Hello, world!' program
 
 With Rust installed and configured, create a new file with the `rs` extension in a folder of your choosing, for example, `hello_world.rs`, and write to it the code below
+
 ```rust
 fn main() {
     println!("Hello, world!");
