@@ -51,9 +51,9 @@ Now that you have the necessary tools installed, you can get to the language's m
 
 ## 😎 Some cool projects in Rust
 
-- [CancerIQ][http://www.canceriq.com/]: uses Rust for many risk models analyzing genetic material
-- [Firefox][https://research.mozilla.org/rust/]: Mozilla is more and more adopting Rust as the language for key parts of the development of Firefox
-- [Deliveroo][https://deliveroo.co.uk/]: Deliveroo uses Rust to make efficient assignment decisions on its delivery network
+- [CancerIQ](http://www.canceriq.com): uses Rust for many risk models analyzing genetic material
+- [Firefox](https://research.mozilla.org/rust): Mozilla is more and more adopting Rust as the language for key parts of the development of Firefox
+- [Deliveroo](https://deliveroo.co.uk): Deliveroo uses Rust to make efficient assignment decisions on its delivery network
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust): Algorithms, data structures, methods, etc. all in one repository in Rust
 
 ## ✨ Conclusion 
