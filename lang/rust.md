@@ -45,7 +45,7 @@ fn main() {
 
 Now, in the same folder your code is located, run `rustc hello_world.rs` (consider `hello_world` being your file name, if different). This will create a file called simply `hello_world` in Unix-like systems or `hello_world.exe` on Windows. To run your code, on Unix-like systems run in your terminal `./hello_world` or `.\hello_world.exe` on Windows and you should get `Hello, world!` as your output. Hooray! Your first Rust program is ready.
 
-### 😃 Where to go next?
+### 🔍 Where to go next?
 
 Now that you have the necessary tools installed, you can get to the language's manual by running `rustup docs --book` in your terminal or by accessing [the online manual in your browser](https://doc.rust-lang.org/book/). Some good books on Rust development are _"Programming Rust: Fast, Safe Systems Development"_ by Jim Blandy and Jason Orendorff and _"The Rust Programming Language"_ by Steve Klabnik Carol Nichols.
 
