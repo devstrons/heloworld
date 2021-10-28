@@ -19,20 +19,20 @@ It has been voted as "the most loved programming language" by the Stack Overflow
  
 ## 🤔 Why to use Rust?
 
-Rust had, ever since its inception, the objective of allowing the power of C/C++ without the hassle and the risks that come with them. One of the main problems it tried to tackle was the risk of dealing with memory at the level of C++ without resorting to a garbage collector. It achieved this with the concept of **ownership and borrowing**, allowing the usage of pointers as in C/C++ but keeping those in their respective context by default, destroying pointers after exiting their blocks, greatly increasing security and making their management easier, as per the [reference manual][https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html]. This and many other implementations of powerful concepts in an ergonomic way allowed Rust to be easily adopted in many projects while increasing their security and readability, making the language a favorite in the programming community.
+Rust had, ever since its inception, the objective of allowing the power of C/C++ without the hassle and the risks that come with them. One of the main problems it tried to tackle was the risk of dealing with memory at the level of C++ without resorting to a garbage collector. It achieved this with the concept of **ownership and borrowing**, allowing the usage of pointers as in C/C++ but keeping those in their respective context by default, destroying pointers after exiting their blocks, greatly increasing security and making their management easier, as per the [reference manual](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html). This and many other implementations of powerful concepts in an ergonomic way allowed Rust to be easily adopted in many projects while increasing their security and readability, making the language a favorite in the programming community.
 
 ## 🧐 What is Rust currently used for?
 
-Today, Rust's development is [sponsored by Mozilla][https://research.mozilla.org/rust/], being adopted in the development of Firefox, its most known product. Rust is also currently being used by other big corporations like [Dropbox and Cloudfare][https://www.rust-lang.org/], with its adoption in the development of the Linux kernel being [currently discussed][https://www.zdnet.com/article/rust-in-the-linux-kernel-why-it-matters-and-whats-happening-next/].
+Today, Rust's development is [sponsored by Mozilla](https://research.mozilla.org/rust/), being adopted in the development of Firefox, its most known product. Rust is also currently being used by other big corporations like [Dropbox and Cloudfare](https://www.rust-lang.org/), with its adoption in the development of the Linux kernel being [currently discussed](https://www.zdnet.com/article/rust-in-the-linux-kernel-why-it-matters-and-whats-happening-next/).
 
 ## 🏁 Starting with Rust development
 
 The best way to install Rust is to use its management tool `rustup`, which can be installed:
 
 - On Linux, macOS or other Unix-like OS by running `$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh` on the terminal
-- On Windows or other platforms, check [the manual][https://forge.rust-lang.org/infra/other-installation-methods.html]
+- On Windows or other platforms, check [the manual](https://forge.rust-lang.org/infra/other-installation-methods.html)
 
-`rustup` will also take care of installing the Rust package manager `cargo` and the compiler `rustc`. For more information, check [their Getting Started web page][https://www.rust-lang.org/learn/get-started].
+`rustup` will also take care of installing the Rust package manager `cargo` and the compiler `rustc`. For more information, check [their Getting Started web page](https://www.rust-lang.org/learn/get-started).
  
 ### 👋 Writing your first 'Hello, world!' program
 
@@ -47,7 +47,7 @@ Now, in the same folder your code is located, run `rustc hello_world.rs` (consid
 
 ### 😃 Where to go next?
 
-Now that you have the necessary tools installed, you can get to the language's manual by running `rustup docs --book` in your terminal or by accessing [the online manual in your browser][https://doc.rust-lang.org/book/]. Some good books on Rust development are _"Programming Rust: Fast, Safe Systems Development"_ by Jim Blandy and Jason Orendorff and _"The Rust Programming Language"_ by Steve Klabnik Carol Nichols.
+Now that you have the necessary tools installed, you can get to the language's manual by running `rustup docs --book` in your terminal or by accessing [the online manual in your browser](https://doc.rust-lang.org/book/). Some good books on Rust development are _"Programming Rust: Fast, Safe Systems Development"_ by Jim Blandy and Jason Orendorff and _"The Rust Programming Language"_ by Steve Klabnik Carol Nichols.
 
 ## 😎 Some cool projects in Rust
 
