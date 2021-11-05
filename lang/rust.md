@@ -25,6 +25,8 @@ Rust had, ever since its inception, the objective of allowing the power of C/C++
 
 Today, Rust's development is [sponsored by Mozilla](https://research.mozilla.org/rust/), being adopted in the development of Firefox, its most known product. Rust is also currently being used by other big corporations like [Dropbox and Cloudfare](https://www.rust-lang.org/), with its adoption in the development of the Linux kernel being [currently discussed](https://www.zdnet.com/article/rust-in-the-linux-kernel-why-it-matters-and-whats-happening-next/).
 
+Rust has grown beyond being a systems language and being adopted for various things because of the underlying security in memory management.
+
 ## 🏁 Starting with Rust development
 
 The best way to install Rust is to use its management tool `rustup`, which can be installed:
@@ -49,6 +51,13 @@ Now, in the same folder your code is located, run `rustc hello_world.rs` (consid
 ### 🔍 Where to go next?
 
 Now that you have the necessary tools installed, you can get to the language's manual by running `rustup docs --book` in your terminal or by accessing [the online manual in your browser](https://doc.rust-lang.org/book/). Some good books on Rust development are _"Programming Rust: Fast, Safe Systems Development"_ by Jim Blandy and Jason Orendorff and _"The Rust Programming Language"_ by Steve Klabnik Carol Nichols.
+
+### 🛠️ Tooling around Rust
+1. [Cargo Doc](https://docs.rs): Cargo’s doc builder makes it so no API ever goes undocumented. It’s available locally through `cargo doc`, and online for public crates through docs.rs.
+2. [Clippy](https://github.com/rust-lang/rust-clippy): “It looks like you’re writing an Iterator.” Clippy helps developers of all experience levels write idiomatic code, and enforce standards.
+3. [Rustfmt](https://github.com/rust-lang/rustfmt): Rustfmt automatically formats Rust code, making it easier to read, write, and maintain. And most importantly: never debate spacing or brace position ever again.
+
+**For Support, feel free to hop in** [**The Rust Programming Language discord's server**](https://discord.com/invite/rust-lang).
 
 ## 😎 Some cool projects in Rust
 
