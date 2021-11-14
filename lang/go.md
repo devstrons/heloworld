@@ -1,5 +1,5 @@
 ---
-lang: Go
+lang: GoLang
 syntax: go
 title: Introduction to the Go Programming Language | Go Explained
 author: krishguptadev
@@ -17,11 +17,11 @@ func main() {
 
 ## 📚 What is go?
 
-go is a statically typed, compiled programming language with a similar syntax to C but with garbage collection, memory safety, CSP-style  concurrency and structural typing. It is a tool for building simple and reliable software, and it is used by Google, Facebook, Instagram, Netflix, Pinterest, and many other companies. 
+Go is a statically typed, compiled programming language with a similar syntax to C but with garbage collection, memory safety, CSP-style concurrency, and structural typing. It is a tool for building simple and reliable software, and it is used by Google, Facebook, Instagram, Netflix, Pinterest, and many other companies. 
 
 ## 🤔 Why to use Go?
 
-Go is a great language for building software. It is a statically typed language, which means you can't mix types in the same program. It is a compiled language, which means it can run faster than other languages. It is an object oriented language, which means you can build programs that are easy to read and maintain, and it is easy to extend.
+Go is a great language for building software. It is a statically typed language, which means you can't mix types in the same program. It is a compiled language, which means it can run faster than other languages. It is an object-oriented language, which means you can build programs that are easy to read and maintain, and it is easy to extend.
 
 ## 🧐 What is Go currently used for?
 
@@ -69,10 +69,10 @@ go run .
 
 ### 🔍 Where to go next?
 
-- [The go documentation](https://golang.org/doc/): The official documentation for Go.
-- [The go playground](https://play.golang.org/): A playground for Go.
-- [The go tutorial](https://tour.golang.org/): A tutorial for Go.
-- [The go standard library](https://golang.org/doc/): The official Go standard library.
+- [The Go documentation](https://golang.org/doc/): The official documentation for Go.
+- [The Go playground](https://play.golang.org/): A playground for Go.
+- [The Go tutorial](https://tour.golang.org/): A tutorial for Go.
+- [The Go standard library](https://golang.org/doc/): The official Go standard library.
 
 ### 🛠️ Tooling around Go
 
@@ -80,7 +80,7 @@ go run .
 - [depth](https://github.com/KyleBanks/depth): Visualize dependency trees of any package by analyzing imports.
 - [go-james](https://github.com/pieterclaerhout/go-james): Go project skeleton creator, builds and tests your projects without the manual setup.
 
-**For Support, feel free to hop in** [**The Gophers discord's server**](https://discord.com/invite/golang).
+**For support, feel free to hop in** [**The Gophers Discord's server**](https://discord.com/invite/golang).
 
 ## 😎 Some cool projects in Go
 
