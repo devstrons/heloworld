@@ -1,7 +1,7 @@
 ---
 lang: GoLang
 syntax: go
-title: Introduction to the Go Programming Language | Go Explained
+title: Build simple, reliable, and efficient software with Go!
 author: krishguptadev
 ---
 
@@ -15,7 +15,7 @@ func main() {
 }
 ```
 
-## 📚 What is go?
+## 📚 What is Go?
 
 Go is a statically typed, compiled programming language with a similar syntax to C but with garbage collection, memory safety, CSP-style concurrency, and structural typing. It is a tool for building simple and reliable software, and it is used by Google, Facebook, Instagram, Netflix, Pinterest, and many other companies. 
 
@@ -23,7 +23,7 @@ Go is a statically typed, compiled programming language with a similar syntax to
 
 Go is a programming language created by Ken Thompson (the creator of the B programming language), Robert Griesemer and Rob Pike, released in 2009. Go was made to fill out the holes in C and Java google came across while working on distributed systems. It is a great language for building software. It is a statically typed language, which means you can't mix types in the same program. It is a compiled language, which means it can run faster than other languages. It is an object-oriented language, which means you can build programs that are easy to read and maintain, and it is easy to extend. From the start go was built to be readible and powerful at the same time, which means that go programs are easily readible and really powerful. Go is useful for carrying out programming for scalable servers and large software systems.
 
-## 🧐 What is Go currently used for?
+### 🧐 What is Go currently used for?
 
 Go is used in various projects, including:
 
@@ -95,7 +95,7 @@ go run .
 
 **For support, feel free to hop in** [**The Gophers Discord's server**](https://discord.com/invite/golang).
 
-## 😎 Some cool projects in Go
+### 😎 Some cool projects in Go
 
 - [Uber](https://www.uber.com/): Golang ridesharing app
 
