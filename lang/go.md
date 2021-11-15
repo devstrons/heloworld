@@ -21,7 +21,7 @@ Go is a statically typed, compiled programming language with a similar syntax to
 
 ## 🤔 Why to use Go?
 
-Go is a great language for building software. It is a statically typed language, which means you can't mix types in the same program. It is a compiled language, which means it can run faster than other languages. It is an object-oriented language, which means you can build programs that are easy to read and maintain, and it is easy to extend.
+Go is a programming language created by Ken Thompson (the creator of the B programming language), Robert Griesemer and Rob Pike, released in 2009. Go was made to fill out the holes in C and Java google came across while working on distributed systems. It is a great language for building software. It is a statically typed language, which means you can't mix types in the same program. It is a compiled language, which means it can run faster than other languages. It is an object-oriented language, which means you can build programs that are easy to read and maintain, and it is easy to extend. From the start go was built to be readible and powerful at the same time, which means that go programs are easily readible and really powerful. Go is useful for carrying out programming for scalable servers and large software systems.
 
 ## 🧐 What is Go currently used for?
 
@@ -39,7 +39,20 @@ Go is used in various projects, including:
 
 ## 🏁 Starting with Go development
 
-To install Go, you can use the [Go installer](https://golang.org/doc/install/source#installer).
+To install Go, follow the instructions below for your operating system 👇
+
+- Windows: Use the MSI installed, from [this link](https://golang.org/doc/install). 
+- Linux, Download archive from [this link](https://golang.org/doc/install) and extract into `/usr/local` (Go file tree will be created at: /usr/local/go) using the command below 👇 
+  ```shell
+  rm -rf /usr/local/go && tar -C /usr/local -xzf go1.17.3.linux-amd64.tar.gz
+  export PATH=$PATH:/usr/local/go/bin
+  ```
+- Mac: Download and run the installed from [the website](https://golang.org/doc/install)
+
+To test your installation, run: `go version`.
+
+**Windows and Mac**: Path will be automatically updated
+**On Linux**: Add the following line to the end of your .bashrc: export PATH=$PATH:/usr/local/go/bin
 
 ## 👋 Writing your first 'Hello, world!' program
 
