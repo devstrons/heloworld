@@ -58,8 +58,6 @@ Julia is a new, general purpose, high performance programming language with the 
 
 - Install the Julia Extension.
 
-  ![Screenshot 2021-12-15 094920](C:\Users\Admin\Desktop\Screenshot 2021-12-15 094920.png)
-
 - Create an example file index.jl and start using Julia.
 
 - Write your code and type `julia index.jl` in the terminal to get the output.
@@ -98,8 +96,6 @@ sudo ln -s /opt/julia-1.7.0/bin/julia /usr/local/bin/julia
 
 - Install the Julia Extension on VSCode.
 
-  ![Screenshot 2021-12-15 094920](C:\Users\Admin\Desktop\Screenshot 2021-12-15 094920.png)
-
 - Create an example file index.jl and start using Julia.
 
 - Write your code and type `julia index.jl` in the terminal to get the output.
@@ -108,7 +104,7 @@ sudo ln -s /opt/julia-1.7.0/bin/julia /usr/local/bin/julia
 
 ### Popular Julia IDEs/Editors
 
-- **[Juno](https://junolab.org/) ** is the most popular IDE for the Julia language. Development focus of Juno has shifted to the [Julia extension for VSCode](https://www.julia-vscode.org/).
+- [Juno](https://junolab.org/) is the most popular IDE for the Julia language. Development focus of Juno has shifted to the [Julia extension for VSCode](https://www.julia-vscode.org/).
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 ----
