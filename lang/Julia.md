@@ -11,7 +11,7 @@ println("Hello World!")
 
 ## 🤔 What is Julia
 
-Julia is a new, general purpose, high performance programming language with the tagline **"Looks like Python, feels like Lisp, runs like Fortran”** It is easy to   use, powerful and extremally performant.
+Julia is a new, general-purpose, high-performance programming language with the tagline **"Looks like Python, feels like Lisp, runs like Fortran”**. It is easy to use, powerful, and extremely performant.
 
 ---
 ## 📈 Why to use Julia
