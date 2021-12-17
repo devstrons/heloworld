@@ -18,7 +18,7 @@ Julia is a new, general-purpose, high-performance programming language with the 
 
 - When using Python and other languages in production and environments it becomes a sort of a burden and a limitation. While Julia is computationally efficient and easy to use for developers.
 
-- Syntactically Julia is quite similar to python so if you write code that does very similar stuff to what it does in python, it does faster in Julia.
+- Syntactically Julia is quite similar to Python, so if you write code that does very similar stuff to what it does in Python, it does faster in Julia.
 
 - You can also embed all Python, C/C++, and Java code directly inside Julia, run that code and interact with output using Julia.
 
