@@ -23,7 +23,7 @@
         "clean": "rm -rf dist",
         "dev:vite": "vite --config vite.config.js src",
         "dev:server": "node server/index.js",
-        "dev": "concurrently 'npm run dev:vite' 'npm run dev:server' -n '🌐,⚡'",
+        "dev": "concurrently \"npm run dev:vite\" \"npm run dev:server\" -n '🌐,⚡'",
         "build": "vite --config vite.config.js build src",
         "preview": "concurrently 'npm run build && sirv dist --single' 'npm run dev:server' -n '🌐,⚡'",
         "lint": "run-p 'lint:*'",
