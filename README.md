@@ -18,9 +18,9 @@
 
 # ⚡️ Contribution Guidelines
 
-1. Create a markdown file in the `lang` folder with the name of the language you want to add (e.g.: `java.md`).
+1. Create a markdown file in the `public/lang` folder with the name of the language you want to add (e.g.: `java.md`).
 2. Start with the below template and fill the appropriate fields with the required information.
-````markdown
+````md
 ---
 lang: Java
 syntax: java
@@ -64,6 +64,8 @@ Gitpod will automatically run `npm install` for you. After that, you can run all
 
 > The **heloworld.xyz** project is released under the [MIT license](https://github.com/devstrons/heloworld.xyz/blob/main/LICENSE). <br> Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
 <hr>
+
+## Our Social Links
 
 > **YouTube** <a href="https://www.youtube.com/channel/UCG7JT7yqut81fqFsVBX6oMg" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
 > **Instagram** <a href="https://www.instagram.com/devstrons" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
