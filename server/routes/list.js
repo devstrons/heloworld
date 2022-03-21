@@ -11,7 +11,7 @@ import path from 'path'
 
 const handler = async () => {
     const returnable = []
-    const files = glob.sync(path.join(dirname(), '..', '..', 'lang', '*.md'), {
+    const files = glob.sync(path.join( 'lang', '*.md'), {
         nodir: true,
     })
 
