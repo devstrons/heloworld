@@ -32,8 +32,7 @@
     },
     "dependencies": {
         "@octokit/rest": "^18.10.0",
-        "gray-matter": "^4.0.3",
-        "marked": "^4.0.12"
+        "gray-matter": "^4.0.3"
     },
     "devDependencies": {
         "@babel/core": "^7.15.0",

@@ -4,7 +4,6 @@
  *  Created On 16 September 2021
  */
 
-import dirname from 'es-dirname'
 import fs from 'fs/promises'
 import path from 'path'
 
