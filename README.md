@@ -16,7 +16,7 @@
 <br>
 
 
-# ⚡️ Contribution Guidelines
+## ⚡️ Contribution Guidelines
 
 1. Create a markdown file in the `lang` folder with the name of the language you want to add (e.g.: `java.md`).
 2. Start with the below template and fill the appropriate fields with the required information.

@@ -19,7 +19,7 @@ export const getLanguages = async () => {
     if (import.meta.env.PROD) {
         res = await github.repos.getContent({
             owner: 'devstrons',
-            repo: 'hello-world',
+            repo: 'heloworld.xyz',
             path: '/lang',
         })
     } else {

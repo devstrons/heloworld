@@ -4,14 +4,13 @@
  *  Created On 16 September 2021
  */
 
-import dirname from 'es-dirname'
 import fs from 'fs/promises'
 import glob from 'glob'
 import path from 'path'
 
 const handler = async () => {
     const returnable = []
-    const files = glob.sync(path.join(dirname(), '..', '..', 'lang', '*.md'), {
+    const files = glob.sync(path.join( 'lang', '*.md'), {
         nodir: true,
     })
 

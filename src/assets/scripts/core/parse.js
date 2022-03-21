@@ -6,7 +6,7 @@
 
 import dompurify from 'https://cdn.skypack.dev/dompurify'
 import grayMatter from 'https://cdn.skypack.dev/gray-matter'
-import marked from 'https://cdn.skypack.dev/marked'
+import 'https://cdn.jsdelivr.net/npm/marked/marked.min.js'
 
 import { getAuthor } from './api.js'
 
@@ -27,7 +27,7 @@ export default async text => {
     const markdown = parsed.content.substr(codeStart).trim()
 
     // convert the markdown to HTML code
-    const html = marked(markdown)
+    const html = marked.parse(markdown)
 
     // ensure that the HTML we're rendering is safe and secure
     // and does not contain any client-side vulnerabilities
