@@ -25,8 +25,9 @@ const HomePage: NextPage = () => {
     <Page title="Home">
       <LangPage payload={payload}>
         <button
-          className="rounded-md bg-slate-50 px-4 py-2 text-slate-700 hover:bg-slate-200"
+          className="rounded-md bg-slate-50 px-4 py-2 text-slate-700 hover:bg-slate-200 disabled:text-slate-500"
           onClick={loadNewContent}
+          disabled={!payload}
           type="button">
           Load New
         </button>

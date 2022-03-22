@@ -49,24 +49,26 @@ const LangPage: React.FC<LangPageProps> = ({ payload, children }) => {
       </header>
       <section className="relative flex shrink-0 flex-col items-center bg-slate-800 text-slate-200">
         <div className="grow py-32">
-          <p className=" text-5xl font-semibold text-slate-50">Imagine a cool code snippet here!</p>
+          <p className=" text-5xl font-semibold text-slate-50">
+            Imagine a cool code <span className="text-accent">snippet</span> here!
+          </p>
         </div>
 
         {children}
         <div className="h-32"></div>
         <Curves />
       </section>
-      <article className="markdown mx-auto w-full max-w-7xl grow px-4 py-8 markdown-h1:text-center md:px-8 xl:px-0">
+      <article className="markdown markdown-slate mx-auto w-full max-w-7xl grow px-4 pt-16 markdown-h1:text-center md:px-8 xl:px-0">
         {payload ? (
           <>
             <h1>{payload.title}</h1>
-            <div className="not-markdown mx-auto flex max-w-xs gap-2 rounded-md border bg-white p-2">
-              <div className="shrink-0x">
-                <div className="aspect-square h-full w-full rounded-full bg-slate-200 shadow-inner"></div>
-              </div>
-              <div className="grow">
-                <h3 className="font-semibold leading-none">{payload.author}</h3>
-                <span className="text-sm leading-none">Jhunjhunu, India</span>
+            <div className="not-markdown flex justify-center">
+              <div className="flex items-center gap-2 rounded-md border bg-white p-2">
+                <div className="h-10 w-10 rounded-full bg-slate-200 shadow-inner"></div>
+                <div className="grow">
+                  <h3 className="font-semibold leading-none">{payload.author}</h3>
+                  <span className="text-sm leading-none text-slate-500">India</span>
+                </div>
               </div>
             </div>
             <ReactMarkdown children={payload.content} />
