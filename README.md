@@ -13,13 +13,14 @@
         <img src="https://img.shields.io/github/last-commit/devstrons/heloworld.xyz.svg?style=flat-square">
     </a>
 </p>
-<br>
+<br />
 
 
 # ⚡️ Contribution Guidelines
-
+1. Make sure you've node v16 installed your system. *To check run `node -v`*
 1. Create a markdown file in the `public/lang` folder with the name of the language you want to add (e.g.: `java.md`).
-2. Start with the below template and fill the appropriate fields with the required information.
+1. Start with the below template and fill the appropriate fields with the required information.
+
 ````md
 ---
 lang: Java
@@ -48,22 +49,21 @@ public class HelloWorld {
 5. **That's it!** ✨ Now your pull request will be merged as soon as possible.
 
 **Note:** 
-For a faster and easier process, you can use the [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/devstrons/heloworld.xyz) service and run all the commands there.</br>
+For a faster and easier process, you can use the [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/devstrons/heloworld.xyz) service and run all the commands there.  
 Gitpod will automatically run `npm install` for you. After that, you can run all the commands you want.
 
 ## 🛠 Building
 
 * `npm install` — Installs all dependencies.
-* `npm run clean` — Cleans the generated artifacts by Vite.
 * `npm run dev` — Starts the development server and Vite at the same time.
 * `npm run build` — Deletes existing build files & freshly bundles JavaScript code.
-* `npm run preview` — Previews the production bundles and uses production API.
 * `npm run lint` — Lints and formats both frontend and API code.
 
 ## 📰 License
 
-> The **heloworld.xyz** project is released under the [MIT license](https://github.com/devstrons/heloworld.xyz/blob/main/LICENSE). <br> Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
-<hr>
+> The **heloworld.xyz** project is released under the [MIT license](https://github.com/devstrons/heloworld.xyz/blob/main/LICENSE).  
+Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
+---
 
 ## Our Social Links
 
