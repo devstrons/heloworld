@@ -42,3 +42,7 @@ yarn-error.log*
 # custom folders
 delete_me
 private
+
+# files
+yarn.lock
+package-lock.json
