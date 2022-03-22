@@ -1,7 +1,6 @@
-import LangPage, { PayloadType } from '@/components/LangPage'
+import LangPage from '@/components/LangPage'
 import Page from '@/components/Page'
 import { useEffectOnce } from '@curiosbasant/react-compooks'
-import type { NextPage } from 'next'
 import { useState } from 'react'
 
 const contentFetcher = async (...args) => {
@@ -9,15 +8,14 @@ const contentFetcher = async (...args) => {
   return response.json()
 }
 
-const HomePage: NextPage = () => {
-  const [payload, setPayload] = useState<PayloadType | null>(null)
+export default function HomePage() {
+  const [payload, setPayload] = useState(null)
   useEffectOnce(() => {
     loadNewContent()
   })
   async function loadNewContent() {
     setPayload(null)
     const response = await contentFetcher()
-    console.log(response)
     setPayload({ content: response.data.content, ...response.data.data })
   }
 
@@ -36,4 +34,3 @@ const HomePage: NextPage = () => {
   )
 }
 
-export default HomePage

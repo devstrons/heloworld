@@ -20,6 +20,6 @@
       "@/*": ["*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["**/*.js", "**/*.jsx"],
   "exclude": ["node_modules", "private", "delete_me"]
 }

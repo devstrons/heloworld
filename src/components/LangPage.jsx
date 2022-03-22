@@ -2,17 +2,7 @@ import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 import Curves from './Curves'
 
-export type PayloadType = {
-  title: string
-  author: string
-  content: string
-  syntax: string
-  lang: string
-}
-type LangPageProps = {
-  payload?: PayloadType | null
-}
-const LangPage: React.FC<LangPageProps> = ({ payload, children }) => {
+export default  function LangPage({ payload, children }) {
   return (
     <div className="flex h-screen flex-col overflow-y-auto bg-slate-50">
       <header className="flex items-center justify-between bg-slate-800 px-8 py-4 text-slate-200">
@@ -82,4 +72,3 @@ const LangPage: React.FC<LangPageProps> = ({ payload, children }) => {
   )
 }
 
-export default LangPage
