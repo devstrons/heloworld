@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "hello-world",
     "description": "A collection of hello world snippets in different programming languages.",
     "version": "0.0.0",
@@ -65,4 +66,51 @@
         "vite-plugin-html": "^2.1.0",
         "vite-plugin-posthtml": "^0.0.3"
     }
+=======
+  "name": "nn",
+  "description": "A collection of hello world snippets in different programming languages.",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "^16"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@curiosbasant/react-compooks": "^0.1.1",
+    "axios": "^0.26.1",
+    "gray-matter": "^4.0.3",
+    "immer": "^9.0.12",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-markdown": "^8.0.1",
+    "react-syntax-highlighter": "^15.5.0",
+    "swr": "^1.2.2",
+    "use-immer": "^0.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.0",
+    "@tailwindcss/typography": "^0.5.2",
+    "@types/react": "17.0.41",
+    "autoprefixer": "^10.4.4",
+    "eslint": "8.11.0",
+    "eslint-config-next": "12.1.0",
+    "postcss": "^8.4.12",
+    "prettier": "^2.6.0",
+    "prettier-plugin-tailwindcss": "^0.1.8",
+    "tailwindcss": "^3.0.23"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devstrons/hello-world.git"
+  },
+  "homepage": "https://github.com/devstrons/hello-world#readme",
+  "bugs": "https://github.com/devstrons/hello-world/issues",
+  "license": "MIT"
+>>>>>>> 210e1c27224627384852e5c8842e832aabf7a5b6
 }

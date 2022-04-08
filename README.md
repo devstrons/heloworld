@@ -13,25 +13,62 @@
         <img src="https://img.shields.io/github/last-commit/devstrons/heloworld.xyz.svg?style=flat-square">
     </a>
 </p>
-<br>
+<br />
 
 # ⚡️ Contribution Guidelines
+1. Make sure you've node v16 installed your system. *To check run `node -v`*
+1. Create a markdown file in the `public/lang` folder with the name of the language you want to add (e.g.: `java.md`).
+1. Start with the below template and fill the appropriate fields with the required information.
 
+<<<<<<< HEAD
 Wanna contribute to our project, but don't know how to start? Check out our [**contributing guidelines**](https://github.com/devstrons/hello-world/blob/main/CONTRIBUTING.md) for how to make your first contribution here.
+=======
+````md
+---
+lang: Java
+syntax: java
+title: Java is a statically typed JVM based programming language.
+author: devstrons
+---
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
+
+## What is Java?
+## Why to use Java?
+## Setting up Java development environment
+## Popular Java IDEs/Editors
+## Some cool projects in Java
+## Conclusion
+````
+
+4. Submit a pull request with the title **`Adding [language] language`**
+5. **That's it!** ✨ Now your pull request will be merged as soon as possible.
+
+**Note:** 
+For a faster and easier process, you can use the [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/devstrons/heloworld.xyz) service and run all the commands there.  
+Gitpod will automatically run `npm install` for you. After that, you can run all the commands you want.
+>>>>>>> 210e1c27224627384852e5c8842e832aabf7a5b6
 
 ## 🛠 Building
 
 * `npm install` — Installs all dependencies.
-* `npm run clean` — Cleans the generated artifacts by Vite.
 * `npm run dev` — Starts the development server and Vite at the same time.
 * `npm run build` — Deletes existing build files & freshly bundles JavaScript code.
-* `npm run preview` — Previews the production bundles and uses production API.
 * `npm run lint` — Lints and formats both frontend and API code.
 
 ## 📰 License
 
-> The **heloworld.xyz** project is released under the [MIT license](https://github.com/devstrons/heloworld.xyz/blob/main/LICENSE). <br> Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
-<hr>
+> The **heloworld.xyz** project is released under the [MIT license](https://github.com/devstrons/heloworld.xyz/blob/main/LICENSE).  
+Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
+---
+
+## Our Social Links
 
 > **YouTube** <a href="https://www.youtube.com/channel/UCG7JT7yqut81fqFsVBX6oMg" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
 > **Instagram** <a href="https://www.instagram.com/devstrons" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
