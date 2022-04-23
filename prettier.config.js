@@ -1,18 +1,18 @@
 /* eslint-env node */
+/*
+ *  Prettier run control for hello-world project.
+ *  Created On 25 August 2021
+ */
 
-/** @type {import("prettier").RequiredOptions} */
 module.exports = {
-  arrowParens: 'avoid',
-  bracketSpacing: true,
-  bracketSameLine: true,
-  printWidth: 100,
-  proseWrap: 'always',
   semi: false,
+  tabWidth: 4,
   singleQuote: true,
-  tabWidth: 2,
   useTabs: false,
   quoteProps: 'as-needed',
   trailingComma: 'all',
+  bracketSpacing: true,
+  arrowParens: 'avoid',
   endOfLine: 'lf',
-  twConfig: 'tailwind.config.js',
+  twConfig: 'tailwind.config.cjs',
 }
