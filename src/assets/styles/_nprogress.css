@@ -4,7 +4,7 @@
  */
 
 #nprogress {
-    pointer-events: none;
+    pointer-events: fill;
 }
 
 #nprogress .bar {
@@ -16,7 +16,7 @@
     left: 0;
 
     width: 100%;
-    height: 2px;
+    height: 2.5px;
 }
 
 /* Fancy blur effect */
