@@ -30,36 +30,33 @@ Scala is a modern programming language designed and created by Martin Odersky. T
 ## Setting up Scala development environment
 
 - Step 1: Verifying Java Packages
-  
-  The first thing we need to have is a Java Software Development Kit(SDK) installed on the computer. We need to verify this SDK packages and if not installed then install them. Open the command window and type in the following commands:
+- The first thing we need to have is a Java Software Development Kit(SDK) installed on the computer. We need to verify these SDK packages and if not installed then install them. Open the command window and type in the following commands:
 
-- For Windows
-```C:\Users\Your_PC_username>java -version```
+- For users using Windows:
+`C:\Users\Your_PC_username>java -version`
 
-- Step 2: Now install Scala 
-  
-  We are done with installing the java now let’s install the scala packages. The best option to download these packages is to download from the official site only: https://www.scala-lang.org/download/ 
-  The packages in the link above is the approximately of 100MB storage. Once the packages are downloaded then open the downloaded .msi file and install it.
+- Step 2: Installing Scala 
+- We are done with installing the Java SDK. Now let’s install the Scala packages. The best option to download these packages is to download from the official site only: https://www.scala-lang.org/download/ 
+The packages in the link above are approximately 100MB. Once the packages are downloaded, open the downloaded `.msi` file and install it.
 
-- Step 3:Testing and Running the Scala Commands
-  
-  Open the command prompt now and type in the following codes
-  ```C:\Users\Your_PC_username>scala```
-
+- Step 3: Testing and running the Scala Commands
+- Open the command prompt now and type in the following codes:
+`C:\Users\Your_PC_username>scala`
 
 ## Popular Scala IDEs/Editors
 
-- IntelliJ IDEA
-- Vim
-- Sublime Text
-- Atom Text editor
-- BlueJ
+- [IntelliJ IDEA](https://www.jetbrains.com/idea)
+- [Vim](https://www.vim.org/download.php)
+- [Sublime Text](https://www.sublimetext.com)
+- [Atom Text editor](https://atom.io)
+- [BlueJ](https://www.bluej.org)
 
 ## Some cool projects in Scala 
 
 - [spark](https://github.com/apache/spark)
 - [lila](https://github.com/lichess-org/lila)
 - [SynapseML](https://github.com/microsoft/SynapseML)
+- [The Algorithms - Scala](https://github.com/TheAlgorithms/Scala)
 
 ## Conclusion
 
