@@ -30,7 +30,7 @@ Wanna contribute to our project, but don't know how to start? Check out our [**c
 
 ## 📰 License
 
-> The **heloworld.xyz** project is released under the [MIT license](https://github.com/devstrons/heloworld.xyz/blob/main/LICENSE). <br> Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
+> The **heloworld.xyz** project is released under the [MIT license](https://github.com/devstrons/heloworld.xyz/blob/main/LICENSE). <br> Developed &amp; maintained by the DEVSTRONS' Community. Copyright 2022 © DEVSTRONS.
 <hr>
 
 > **YouTube** <a href="https://www.youtube.com/channel/UCG7JT7yqut81fqFsVBX6oMg" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
