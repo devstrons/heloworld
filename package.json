@@ -1,66 +1,63 @@
 {
-    "name": "hello-world",
-    "description": "A collection of hello world snippets in different programming languages.",
-    "version": "0.0.0",
-    "license": "MIT",
-    "type": "module",
-    "homepage": "https://github.com/devstrons/hello-world#readme",
-    "bugs": "https://github.com/devstrons/hello-world/issues",
-    "author": {
-        "name": "Vasanth Developer",
-        "email": "vasanth@vasanthdeveloper.com",
-        "url": "https://vsnth.dev"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/devstrons/hello-world.git"
-    },
-    "engines": {
-        "node": "<=16.6.2"
-    },
-    "scripts": {
-        "clean": "rm -rf dist",
-        "dev": "vite --config vite.config.js src",
-        "build": "vite --config vite.config.js build src",
-        "preview": "npm run build && sirv dist --single",
-        "lint": "run-p 'lint:*'",
-        "lint:html": "prettier -w 'src/**/*.html'",
-        "lint:js": "eslint --fix -c .eslintrc.cjs '**/*.+(cjs|js)'"
-    },
-    "dependencies": {
-        "@vsnthdev/utilities-node": "^2.0.1",
-        "glob": "^7.1.7",
-        "gray-matter": "^4.0.3",
-        "marked": "^3.0.2",
-        "sanitize-html": "^2.4.0"
-    },
-    "devDependencies": {
-        "@babel/core": "^7.15.0",
-        "@babel/eslint-parser": "^7.15.0",
-        "@babel/plugin-syntax-top-level-await": "^7.14.5",
-        "@octokit/rest": "^18.9.1",
-        "@tailwindcss/typography": "^0.4.1",
-        "@types/glob": "^7.1.4",
-        "@types/marked": "^3.0.0",
-        "@types/sanitize-html": "^2.3.2",
-        "@vercel/node": "^1.12.1",
-        "autoprefixer": "^10.3.2",
-        "axios": "^0.21.1",
-        "eslint": "^7.32.0",
-        "eslint-config-prettier": "^8.3.0",
-        "eslint-plugin-prettier": "^3.4.1",
-        "eslint-plugin-simple-import-sort": "^7.0.0",
-        "highlight.js": "^11.2.0",
-        "nprogress": "^0.2.0",
-        "posthtml-inline-svg": "^0.2.0",
-        "posthtml-modules": "^0.7.4",
-        "prettier": "^2.3.2",
-        "sirv-cli": "^1.0.14",
-        "tailwindcss": "^2.2.7",
-        "vercel": "^23.1.2",
-        "vite": "^2.5.1",
-        "vite-plugin-full-reload": "^0.2.2",
-        "vite-plugin-html": "^2.1.0",
-        "vite-plugin-posthtml": "^0.0.3"
-    }
+  "name": "hello-world",
+  "description": "A collection of hello world snippets in different programming languages.",
+  "version": "0.0.0",
+  "license": "MIT",
+  "type": "module",
+  "engineStrict": true,
+  "homepage": "https://github.com/devstrons/heloworld#readme",
+  "bugs": "https://github.com/devstrons/heloworld/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devstrons/heloworld.git"
+  },
+  "engines": {
+    "node": "^14"
+  },
+  "scripts": {
+    "clean": "rm -rf dist",
+    "dev:vite": "vite --config vite.config.js src",
+    "dev:server": "node server/index.js",
+    "dev": "concurrently \"npm run dev:vite\" \"npm run dev:server\" -n '🌐,⚡'",
+    "build": "vite --config vite.config.js build src",
+    "preview": "concurrently 'npm run build && sirv dist --single' 'npm run dev:server' -n '🌐,⚡'",
+    "lint": "run-p 'lint:*'",
+    "lint:html": "prettier -w 'src/**/*.html'",
+    "lint:js": "eslint --fix -c .eslintrc.cjs '**/*.+(cjs|js)'"
+  },
+  "dependencies": {
+    "@octokit/rest": "^18.10.0",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/eslint-parser": "^7.15.0",
+    "@babel/plugin-syntax-top-level-await": "^7.14.5",
+    "@hapi/hapi": "^20.1.5",
+    "@tailwindcss/typography": "^0.4.1",
+    "@types/glob": "^7.1.4",
+    "@vercel/node": "^1.12.1",
+    "autoprefixer": "^10.3.2",
+    "axios": "^0.21.1",
+    "concurrently": "^6.2.1",
+    "es-dirname": "^0.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.1",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "glob": "^7.1.7",
+    "highlight.js": "^11.2.0",
+    "itivrutaha": "^2.0.9",
+    "nprogress": "^0.2.0",
+    "posthtml-inline-svg": "^0.2.0",
+    "posthtml-modules": "^0.7.4",
+    "prettier": "^2.3.2",
+    "sirv-cli": "^1.0.14",
+    "tailwindcss": "^2.2.7",
+    "vercel": "^23.1.2",
+    "vite": "^2.5.1",
+    "vite-plugin-full-reload": "^0.2.2",
+    "vite-plugin-html": "^2.1.0",
+    "vite-plugin-posthtml": "^0.0.3"
+  }
 }
